@@ -1,0 +1,3 @@
+Best Combination of Parameters is(0.1, 128, 0.001)
+The avg profit of last 10 epochs is -80813.1742. 
+******************************************** 

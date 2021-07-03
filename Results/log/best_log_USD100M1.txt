@@ -1,0 +1,1023 @@
+Trade day 1 Successfully Order 6997274.25  . Buy Fee = 10495.91.The Current Balance is 9989504.09. The Current Fund is 2992229.84
+Trade day 2 Not enough fund to buy. Do Nothing.The Current Balance is 9998706.59. The Current Fund is 2992229.84
+Trade day 3 Not enough fund to buy. Do Nothing.The Current Balance is 10026620.84. The Current Fund is 2992229.84
+Trade day 4 Not enough fund to buy. Do Nothing.The Current Balance is 10087970.84. The Current Fund is 2992229.84
+Trade day 5 Not enough fund to buy. Do Nothing.The Current Balance is 10098707.09. The Current Fund is 2992229.84
+Trade day 6 Not enough fund to buy. Do Nothing.The Current Balance is 10101161.09. The Current Fund is 2992229.84
+Trade day 7 Not enough fund to buy. Do Nothing.The Current Balance is 10113737.84. The Current Fund is 2992229.84
+Trade day 8 Not enough fund to buy. Do Nothing.The Current Balance is 10135823.84. The Current Fund is 2992229.84
+Trade day 9 Not enough fund to buy. Do Nothing.The Current Balance is 10213738.34. The Current Fund is 2992229.84
+Trade day 10 Not enough fund to buy. Do Nothing.The Current Balance is 10215578.84. The Current Fund is 2992229.84
+Trade day 11 Not enough fund to buy. Do Nothing.The Current Balance is 10192879.34. The Current Fund is 2992229.84
+Trade day 12 Not enough fund to buy. Do Nothing.The Current Balance is 10214045.09. The Current Fund is 2992229.84
+Trade day 13 Not enough fund to buy. Do Nothing.The Current Balance is 10229689.34. The Current Fund is 2992229.84
+Trade day 14 Not enough fund to buy. Do Nothing.The Current Balance is 10044105.59. The Current Fund is 2992229.84
+Trade day 15 Not enough fund to buy. Do Nothing.The Current Balance is 10012510.34. The Current Fund is 2992229.84
+Trade day 16 Not enough fund to buy. Do Nothing.The Current Balance is 10061590.34. The Current Fund is 2992229.84
+Trade day 17 Not enough fund to buy. Do Nothing.The Current Balance is 10021712.84. The Current Fund is 2992229.84
+Trade day 18 Keep.The Current Balance is 9997172.84. The Current Fund is 2992229.84
+Trade day 19 Not enough fund to buy. Do Nothing.The Current Balance is 9966804.59. The Current Fund is 2992229.84
+Trade day 20 Not enough fund to buy. Do Nothing.The Current Balance is 10071406.34. The Current Fund is 2992229.84
+Trade day 21 Not enough fund to buy. Do Nothing.The Current Balance is 10024780.34. The Current Fund is 2992229.84
+Trade day 22 Not enough fund to buy. Do Nothing.The Current Balance is 10102388.09. The Current Fund is 2992229.84
+Trade day 23 Not enough fund to buy. Do Nothing.The Current Balance is 10090118.09. The Current Fund is 2992229.84
+Trade day 24 Not enough fund to buy. Do Nothing.The Current Balance is 10123553.84. The Current Fund is 2992229.84
+Trade day 25 Not enough fund to buy. Do Nothing.The Current Balance is 10082142.59. The Current Fund is 2992229.84
+Trade day 26 Not enough fund to buy. Do Nothing.The Current Balance is 9953614.34. The Current Fund is 2992229.84
+Trade day 27 Not enough fund to buy. Do Nothing.The Current Balance is 10068338.84. The Current Fund is 2992229.84
+Trade day 28 Not enough fund to buy. Do Nothing.The Current Balance is 9925086.59. The Current Fund is 2992229.84
+Trade day 29 Not enough fund to buy. Do Nothing.The Current Balance is 9929994.59. The Current Fund is 2992229.84
+Trade day 30 Keep.The Current Balance is 9849319.34. The Current Fund is 2992229.84
+Trade day 31 Not enough fund to buy. Do Nothing.The Current Balance is 9839196.59. The Current Fund is 2992229.84
+Trade day 32 Not enough fund to buy. Do Nothing.The Current Balance is 9925700.09. The Current Fund is 2992229.84
+Trade day 33 Not enough fund to buy. Do Nothing.The Current Balance is 9859748.84. The Current Fund is 2992229.84
+Trade day 34 Not enough fund to buy. Do Nothing.The Current Balance is 9929994.59. The Current Fund is 2992229.84
+Trade day 35 Not enough fund to buy. Do Nothing.The Current Balance is 9978154.34. The Current Fund is 2992229.84
+Trade day 36 Not enough fund to buy. Do Nothing.The Current Balance is 10009442.84. The Current Fund is 2992229.84
+Trade day 37 Keep.The Current Balance is 10093185.59. The Current Fund is 2992229.84
+Trade day 38 Not enough fund to buy. Do Nothing.The Current Balance is 10106682.59. The Current Fund is 2992229.84
+Trade day 39 Not enough fund to buy. Do Nothing.The Current Balance is 10160977.34. The Current Fund is 2992229.84
+Trade day 40 Not enough fund to buy. Do Nothing.The Current Balance is 10181222.84. The Current Fund is 2992229.84
+Trade day 41 Not enough fund to buy. Do Nothing.The Current Balance is 10226928.59. The Current Fund is 2992229.84
+Trade day 42 Not enough fund to buy. Do Nothing.The Current Balance is 10255149.59. The Current Fund is 2992229.84
+Trade day 43 Not enough fund to buy. Do Nothing.The Current Balance is 10269566.84. The Current Fund is 2992229.84
+Trade day 44 Keep.The Current Balance is 10254229.34. The Current Fund is 2992229.84
+Trade day 45 Not enough fund to buy. Do Nothing.The Current Balance is 10262204.84. The Current Fund is 2992229.84
+Trade day 46 Keep.The Current Balance is 10272020.84. The Current Fund is 2992229.84
+Trade day 47 Not enough fund to buy. Do Nothing.The Current Balance is 10295947.34. The Current Fund is 2992229.84
+Trade day 48 Not enough fund to buy. Do Nothing.The Current Balance is 10237358.09. The Current Fund is 2992229.84
+Trade day 49 Not enough fund to buy. Do Nothing.The Current Balance is 10245333.59. The Current Fund is 2992229.84
+Trade day 50 Not enough fund to buy. Do Nothing.The Current Balance is 10212511.34. The Current Fund is 2992229.84
+Trade day 51 Not enough fund to buy. Do Nothing.The Current Balance is 10268646.59. The Current Fund is 2992229.84
+Trade day 52 Keep.The Current Balance is 10248707.84. The Current Fund is 2992229.84
+Trade day 53 Not enough fund to buy. Do Nothing.The Current Balance is 10217112.59. The Current Fund is 2992229.84
+Trade day 54 Not enough fund to buy. Do Nothing.The Current Balance is 10227542.09. The Current Fund is 2992229.84
+Trade day 55 Not enough fund to buy. Do Nothing.The Current Balance is 10276008.59. The Current Fund is 2992229.84
+Trade day 56 Not enough fund to buy. Do Nothing.The Current Balance is 10248401.09. The Current Fund is 2992229.84
+Trade day 57 Not enough fund to buy. Do Nothing.The Current Balance is 10260671.09. The Current Fund is 2992229.84
+Trade day 58 Not enough fund to buy. Do Nothing.The Current Balance is 10073553.59. The Current Fund is 2992229.84
+Trade day 59 Not enough fund to buy. Do Nothing.The Current Balance is 10154228.84. The Current Fund is 2992229.84
+Trade day 60 Not enough fund to buy. Do Nothing.The Current Balance is 10247787.59. The Current Fund is 2992229.84
+Trade day 61 Not enough fund to buy. Do Nothing.The Current Balance is 10247787.59. The Current Fund is 2992229.84
+Trade day 62 Keep.The Current Balance is 10256069.84. The Current Fund is 2992229.84
+Trade day 63 Keep.The Current Balance is 10100240.84. The Current Fund is 2992229.84
+Trade day 64 Not enough fund to buy. Do Nothing.The Current Balance is 10109750.09. The Current Fund is 2992229.84
+Trade day 65 Keep.The Current Balance is 10103921.84. The Current Fund is 2992229.84
+Trade day 66 Keep.The Current Balance is 10206989.84. The Current Fund is 2992229.84
+Trade day 67 Keep.The Current Balance is 10161897.59. The Current Fund is 2992229.84
+Trade day 68 Keep.The Current Balance is 10164658.34. The Current Fund is 2992229.84
+Trade day 69 Keep.The Current Balance is 10139811.59. The Current Fund is 2992229.84
+Trade day 70 Keep.The Current Balance is 10164658.34. The Current Fund is 2992229.84
+Trade day 71 Keep.The Current Balance is 10193492.84. The Current Fund is 2992229.84
+Trade day 72 Keep.The Current Balance is 10274168.09. The Current Fund is 2992229.84
+Trade day 73 Keep.The Current Balance is 10348401.59. The Current Fund is 2992229.84
+Trade day 74 Keep.The Current Balance is 10338278.84. The Current Fund is 2992229.84
+Trade day 75 Keep.The Current Balance is 10335518.09. The Current Fund is 2992229.84
+Trade day 76 Keep.The Current Balance is 10290119.09. The Current Fund is 2992229.84
+Trade day 77 Keep.The Current Balance is 10303922.84. The Current Fund is 2992229.84
+Trade day 78 Not enough fund to buy. Do Nothing.The Current Balance is 10324781.84. The Current Fund is 2992229.84
+Trade day 79 Keep.The Current Balance is 10261284.59. The Current Fund is 2992229.84
+Trade day 80 Not enough fund to buy. Do Nothing.The Current Balance is 10344107.09. The Current Fund is 2992229.84
+Trade day 81 Keep.The Current Balance is 10363432.34. The Current Fund is 2992229.84
+Trade day 82 Keep.The Current Balance is 10366499.84. The Current Fund is 2992229.84
+Trade day 83 Keep.The Current Balance is 10318340.09. The Current Fund is 2992229.84
+Trade day 84 Keep.The Current Balance is 10347174.59. The Current Fund is 2992229.84
+Trade day 85 Not enough fund to buy. Do Nothing.The Current Balance is 10338892.34. The Current Fund is 2992229.84
+Trade day 86 Keep.The Current Balance is 10345334.09. The Current Fund is 2992229.84
+Trade day 87 Keep.The Current Balance is 10325088.59. The Current Fund is 2992229.84
+Trade day 88 Keep.The Current Balance is 10284290.84. The Current Fund is 2992229.84
+Trade day 89 Not enough fund to buy. Do Nothing.The Current Balance is 10273554.59. The Current Fund is 2992229.84
+Trade day 90 Keep.The Current Balance is 10205149.34. The Current Fund is 2992229.84
+Trade day 91 Not enough fund to buy. Do Nothing.The Current Balance is 10220180.09. The Current Fund is 2992229.84
+Trade day 92 Keep.The Current Balance is 10277235.59. The Current Fund is 2992229.84
+Trade day 93 Keep.The Current Balance is 10279996.34. The Current Fund is 2992229.84
+Trade day 94 Keep.The Current Balance is 10326622.34. The Current Fund is 2992229.84
+Trade day 95 Keep.The Current Balance is 10336131.59. The Current Fund is 2992229.84
+Trade day 96 Keep.The Current Balance is 10351775.84. The Current Fund is 2992229.84
+Trade day 97 Keep.The Current Balance is 10359444.59. The Current Fund is 2992229.84
+Trade day 98 Keep.The Current Balance is 10430610.59. The Current Fund is 2992229.84
+Trade day 99 Keep.The Current Balance is 10433064.59. The Current Fund is 2992229.84
+Trade day 100 Keep.The Current Balance is 10429690.34. The Current Fund is 2992229.84
+Trade day 101 Keep.The Current Balance is 10433678.09. The Current Fund is 2992229.84
+Trade day 102 Keep.The Current Balance is 10455764.09. The Current Fund is 2992229.84
+Trade day 103 Keep.The Current Balance is 10444414.34. The Current Fund is 2992229.84
+Trade day 104 Keep.The Current Balance is 10475396.09. The Current Fund is 2992229.84
+Trade day 105 Keep.The Current Balance is 10500856.34. The Current Fund is 2992229.84
+Trade day 106 Keep.The Current Balance is 10503003.59. The Current Fund is 2992229.84
+Trade day 107 Keep.The Current Balance is 10500242.84. The Current Fund is 2992229.84
+Trade day 108 Keep.The Current Balance is 10475089.34. The Current Fund is 2992229.84
+Trade day 109 Keep.The Current Balance is 10489813.34. The Current Fund is 2992229.84
+Trade day 110 Keep.The Current Balance is 10434598.34. The Current Fund is 2992229.84
+Trade day 111 Keep.The Current Balance is 10442267.09. The Current Fund is 2992229.84
+Trade day 112 Keep.The Current Balance is 10435211.84. The Current Fund is 2992229.84
+Trade day 113 Keep.The Current Balance is 10463126.09. The Current Fund is 2992229.84
+Trade day 114 Keep.The Current Balance is 10618648.34. The Current Fund is 2992229.84
+Trade day 115 Keep.The Current Balance is 10625703.59. The Current Fund is 2992229.84
+Trade day 116 Keep.The Current Balance is 10661900.09. The Current Fund is 2992229.84
+Trade day 117 Keep.The Current Balance is 10642574.84. The Current Fund is 2992229.84
+Trade day 118 Keep.The Current Balance is 10671409.34. The Current Fund is 2992229.84
+Trade day 119 Keep.The Current Balance is 10709139.59. The Current Fund is 2992229.84
+Trade day 120 Keep.The Current Balance is 10737667.34. The Current Fund is 2992229.84
+Trade day 121 Keep.The Current Balance is 10739814.59. The Current Fund is 2992229.84
+Trade day 122 Keep.The Current Balance is 10771409.84. The Current Fund is 2992229.84
+Trade day 123 Keep.The Current Balance is 10738280.84. The Current Fund is 2992229.84
+Trade day 124 Keep.The Current Balance is 10732759.34. The Current Fund is 2992229.84
+Trade day 125 Not enough fund to buy. Do Nothing.The Current Balance is 10737053.84. The Current Fund is 2992229.84
+Trade day 126 Keep.The Current Balance is 10714354.34. The Current Fund is 2992229.84
+Trade day 127 Keep.The Current Balance is 10677237.59. The Current Fund is 2992229.84
+Trade day 128 Keep.The Current Balance is 10777238.09. The Current Fund is 2992229.84
+Trade day 129 Keep.The Current Balance is 10737360.59. The Current Fund is 2992229.84
+Trade day 130 Keep.The Current Balance is 10742268.59. The Current Fund is 2992229.84
+Trade day 131 Keep.The Current Balance is 10818956.09. The Current Fund is 2992229.84
+Trade day 132 Not enough fund to buy. Do Nothing.The Current Balance is 10829078.84. The Current Fund is 2992229.84
+Trade day 133 Keep.The Current Balance is 10826011.34. The Current Fund is 2992229.84
+Trade day 134 Keep.The Current Balance is 10862514.59. The Current Fund is 2992229.84
+Trade day 135 Keep.The Current Balance is 10862514.59. The Current Fund is 2992229.84
+Trade day 136 Keep.The Current Balance is 10872330.59. The Current Fund is 2992229.84
+Trade day 137 Keep.The Current Balance is 10726931.09. The Current Fund is 2992229.84
+Trade day 138 Keep.The Current Balance is 10790121.59. The Current Fund is 2992229.84
+Trade day 139 Keep.The Current Balance is 10778465.09. The Current Fund is 2992229.84
+Trade day 140 Keep.The Current Balance is 10695642.59. The Current Fund is 2992229.84
+Trade day 141 Keep.The Current Balance is 10706072.09. The Current Fund is 2992229.84
+Trade day 142 Keep.The Current Balance is 10745336.09. The Current Fund is 2992229.84
+Trade day 143 Keep.The Current Balance is 10774170.59. The Current Fund is 2992229.84
+Trade day 144 Keep.The Current Balance is 10795336.34. The Current Fund is 2992229.84
+Trade day 145 Keep.The Current Balance is 10872330.59. The Current Fund is 2992229.84
+Trade day 146 Keep.The Current Balance is 10847483.84. The Current Fund is 2992229.84
+Trade day 147 Keep.The Current Balance is 10866195.59. The Current Fund is 2992229.84
+Trade day 148 Keep.The Current Balance is 10849017.59. The Current Fund is 2992229.84
+Trade day 149 Keep.The Current Balance is 10966196.09. The Current Fund is 2992229.84
+Trade day 150 Keep.The Current Balance is 11010981.59. The Current Fund is 2992229.84
+Trade day 151 Not enough fund to buy. Do Nothing.The Current Balance is 10971717.59. The Current Fund is 2992229.84
+Trade day 152 Not enough fund to buy. Do Nothing.The Current Balance is 10948711.34. The Current Fund is 2992229.84
+Trade day 153 Keep.The Current Balance is 10954539.59. The Current Fund is 2992229.84
+Trade day 154 Keep.The Current Balance is 10946564.09. The Current Fund is 2992229.84
+Trade day 155 Keep.The Current Balance is 10918343.09. The Current Fund is 2992229.84
+Trade day 156 Keep.The Current Balance is 10908527.09. The Current Fund is 2992229.84
+Trade day 157 Keep.The Current Balance is 10898711.09. The Current Fund is 2992229.84
+Trade day 158 Keep.The Current Balance is 10840121.84. The Current Fund is 2992229.84
+Trade day 159 Keep.The Current Balance is 10985828.09. The Current Fund is 2992229.84
+Trade day 160 Keep.The Current Balance is 11069570.84. The Current Fund is 2992229.84
+Trade day 161 Not enough fund to buy. Do Nothing.The Current Balance is 11097791.84. The Current Fund is 2992229.84
+Trade day 162 Keep.The Current Balance is 11173865.84. The Current Fund is 2992229.84
+Trade day 163 Not enough fund to buy. Do Nothing.The Current Balance is 11198405.84. The Current Fund is 2992229.84
+Trade day 164 Keep.The Current Balance is 11188896.59. The Current Fund is 2992229.84
+Trade day 165 Keep.The Current Balance is 11183681.84. The Current Fund is 2992229.84
+Trade day 166 Not enough fund to buy. Do Nothing.The Current Balance is 11241657.59. The Current Fund is 2992229.84
+Trade day 167 Keep.The Current Balance is 11304541.34. The Current Fund is 2992229.84
+Trade day 168 Keep.The Current Balance is 11311596.59. The Current Fund is 2992229.84
+Trade day 169 Keep.The Current Balance is 11287363.34. The Current Fund is 2992229.84
+Trade day 170 Keep.The Current Balance is 11359449.59. The Current Fund is 2992229.84
+Trade day 171 Keep.The Current Balance is 11354848.34. The Current Fund is 2992229.84
+Trade day 172 Keep.The Current Balance is 11391658.34. The Current Fund is 2992229.84
+Trade day 173 Keep.The Current Balance is 11496873.59. The Current Fund is 2992229.84
+Trade day 174 Keep.The Current Balance is 11531536.34. The Current Fund is 2992229.84
+Trade day 175 Keep.The Current Balance is 11499941.09. The Current Fund is 2992229.84
+Trade day 176 Keep.The Current Balance is 11504542.34. The Current Fund is 2992229.84
+Trade day 177 Keep.The Current Balance is 11617426.34. The Current Fund is 2992229.84
+Trade day 178 Keep.The Current Balance is 11574174.59. The Current Fund is 2992229.84
+Trade day 179 Keep.The Current Balance is 11506382.84. The Current Fund is 2992229.84
+Trade day 180 Keep.The Current Balance is 11491658.84. The Current Fund is 2992229.84
+Trade day 181 Keep.The Current Balance is 11501781.59. The Current Fund is 2992229.84
+Trade day 182 Keep.The Current Balance is 11280921.59. The Current Fund is 2992229.84
+Trade day 183 Keep.The Current Balance is 10925091.59. The Current Fund is 2992229.84
+Trade day 184 Keep.The Current Balance is 11133988.34. The Current Fund is 2992229.84
+Trade day 185 Keep.The Current Balance is 11023558.34. The Current Fund is 2992229.84
+Trade day 186 Keep.The Current Balance is 10766195.09. The Current Fund is 2992229.84
+Trade day 187 Keep.The Current Balance is 10861287.59. The Current Fund is 2992229.84
+Trade day 188 Keep.The Current Balance is 10999018.34. The Current Fund is 2992229.84
+Trade day 189 Keep.The Current Balance is 11042270.09. The Current Fund is 2992229.84
+Trade day 190 Keep.The Current Balance is 11183988.59. The Current Fund is 2992229.84
+Trade day 191 Keep.The Current Balance is 11359142.84. The Current Fund is 2992229.84
+Trade day 192 Keep.The Current Balance is 11318958.59. The Current Fund is 2992229.84
+Trade day 193 Keep.The Current Balance is 11309756.09. The Current Fund is 2992229.84
+Trade day 194 Keep.The Current Balance is 11325400.34. The Current Fund is 2992229.84
+Trade day 195 Keep.The Current Balance is 11279081.09. The Current Fund is 2992229.84
+Trade day 196 Not enough fund to buy. Do Nothing.The Current Balance is 11329388.09. The Current Fund is 2992229.84
+Trade day 197 Keep.The Current Balance is 11468039.09. The Current Fund is 2992229.84
+Trade day 198 Keep.The Current Balance is 11584910.84. The Current Fund is 2992229.84
+Trade day 199 Keep.The Current Balance is 11473867.34. The Current Fund is 2992229.84
+Trade day 200 Keep.The Current Balance is 11433069.59. The Current Fund is 2992229.84
+Trade day 201 Keep.The Current Balance is 11292271.34. The Current Fund is 2992229.84
+Trade day 202 Keep.The Current Balance is 11341964.84. The Current Fund is 2992229.84
+Trade day 203 Keep.The Current Balance is 11464971.59. The Current Fund is 2992229.84
+Trade day 204 Keep.The Current Balance is 11500247.84. The Current Fund is 2992229.84
+Trade day 205 Keep.The Current Balance is 11515585.34. The Current Fund is 2992229.84
+Trade day 206 Keep.The Current Balance is 11577855.59. The Current Fund is 2992229.84
+Trade day 207 Keep.The Current Balance is 11731230.59. The Current Fund is 2992229.84
+Trade day 208 Keep.The Current Balance is 11778163.34. The Current Fund is 2992229.84
+Trade day 209 Not enough fund to buy. Do Nothing.The Current Balance is 11667733.34. The Current Fund is 2992229.84
+Trade day 210 Keep.The Current Balance is 11654849.84. The Current Fund is 2992229.84
+Trade day 211 Not enough fund to buy. Do Nothing.The Current Balance is 11673868.34. The Current Fund is 2992229.84
+Trade day 212 Not enough fund to buy. Do Nothing.The Current Balance is 11634297.59. The Current Fund is 2992229.84
+Trade day 213 Keep.The Current Balance is 11476628.09. The Current Fund is 2992229.84
+Trade day 214 Not enough fund to buy. Do Nothing.The Current Balance is 11480002.34. The Current Fund is 2992229.84
+Trade day 215 Keep.The Current Balance is 11437057.34. The Current Fund is 2992229.84
+Trade day 216 Not enough fund to buy. Do Nothing.The Current Balance is 11206688.09. The Current Fund is 2992229.84
+Trade day 217 Not enough fund to buy. Do Nothing.The Current Balance is 11029693.34. The Current Fund is 2992229.84
+Trade day 218 Keep.The Current Balance is 11306075.09. The Current Fund is 2992229.84
+Trade day 219 Not enough fund to buy. Do Nothing.The Current Balance is 11030920.34. The Current Fund is 2992229.84
+Trade day 220 Not enough fund to buy. Do Nothing.The Current Balance is 10953005.84. The Current Fund is 2992229.84
+Trade day 221 Keep.The Current Balance is 11053313.09. The Current Fund is 2992229.84
+Trade day 222 Keep.The Current Balance is 10859753.84. The Current Fund is 2992229.84
+Trade day 223 Not enough fund to buy. Do Nothing.The Current Balance is 10931533.34. The Current Fund is 2992229.84
+Trade day 224 Not enough fund to buy. Do Nothing.The Current Balance is 11067116.84. The Current Fund is 2992229.84
+Trade day 225 Not enough fund to buy. Do Nothing.The Current Balance is 11097178.34. The Current Fund is 2992229.84
+Trade day 226 Keep.The Current Balance is 10907913.59. The Current Fund is 2992229.84
+Trade day 227 Not enough fund to buy. Do Nothing.The Current Balance is 10959754.34. The Current Fund is 2992229.84
+Trade day 228 Not enough fund to buy. Do Nothing.The Current Balance is 11118037.34. The Current Fund is 2992229.84
+Trade day 229 Not enough fund to buy. Do Nothing.The Current Balance is 11082761.09. The Current Fund is 2992229.84
+Trade day 230 Not enough fund to buy. Do Nothing.The Current Balance is 11179694.09. The Current Fund is 2992229.84
+Trade day 231 Not enough fund to buy. Do Nothing.The Current Balance is 11137976.09. The Current Fund is 2992229.84
+Trade day 232 Not enough fund to buy. Do Nothing.The Current Balance is 11215277.09. The Current Fund is 2992229.84
+Trade day 233 Not enough fund to buy. Do Nothing.The Current Balance is 11366504.84. The Current Fund is 2992229.84
+Trade day 234 Not enough fund to buy. Do Nothing.The Current Balance is 11391965.09. The Current Fund is 2992229.84
+Trade day 235 Not enough fund to buy. Do Nothing.The Current Balance is 11307302.09. The Current Fund is 2992229.84
+Trade day 236 Not enough fund to buy. Do Nothing.The Current Balance is 11184602.09. The Current Fund is 2992229.84
+Trade day 237 Keep.The Current Balance is 11162209.34. The Current Fund is 2992229.84
+Trade day 238 Keep.The Current Balance is 10999631.84. The Current Fund is 2992229.84
+Trade day 239 Not enough fund to buy. Do Nothing.The Current Balance is 11056687.34. The Current Fund is 2992229.84
+Trade day 240 Not enough fund to buy. Do Nothing.The Current Balance is 11264970.59. The Current Fund is 2992229.84
+Trade day 241 Not enough fund to buy. Do Nothing.The Current Balance is 11173865.84. The Current Fund is 2992229.84
+Trade day 242 Not enough fund to buy. Do Nothing.The Current Balance is 11094110.84. The Current Fund is 2992229.84
+Trade day 243 Keep.The Current Balance is 11234909.09. The Current Fund is 2992229.84
+Trade day 244 Keep.The Current Balance is 11124785.84. The Current Fund is 2992229.84
+Trade day 245 Keep.The Current Balance is 11170798.34. The Current Fund is 2992229.84
+Trade day 246 Not enough fund to buy. Do Nothing.The Current Balance is 11306075.09. The Current Fund is 2992229.84
+Trade day 247 Not enough fund to buy. Do Nothing.The Current Balance is 11357915.84. The Current Fund is 2992229.84
+Trade day 248 Not enough fund to buy. Do Nothing.The Current Balance is 11362517.09. The Current Fund is 2992229.84
+Trade day 249 Keep.The Current Balance is 11453315.09. The Current Fund is 2992229.84
+Trade day 250 Not enough fund to buy. Do Nothing.The Current Balance is 11522027.09. The Current Fund is 2992229.84
+Trade day 251 Keep.The Current Balance is 11532456.59. The Current Fund is 2992229.84
+Trade day 252 Not enough fund to buy. Do Nothing.The Current Balance is 11542272.59. The Current Fund is 2992229.84
+Trade day 253 Keep.The Current Balance is 11448407.09. The Current Fund is 2992229.84
+Trade day 254 Keep.The Current Balance is 11500247.84. The Current Fund is 2992229.84
+Trade day 255 Not enough fund to buy. Do Nothing.The Current Balance is 11463131.09. The Current Fund is 2992229.84
+Trade day 256 Not enough fund to buy. Do Nothing.The Current Balance is 11426321.09. The Current Fund is 2992229.84
+Trade day 257 Keep.The Current Balance is 11475401.09. The Current Fund is 2992229.84
+Trade day 258 Keep.The Current Balance is 11467732.34. The Current Fund is 2992229.84
+Trade day 259 Keep.The Current Balance is 11527548.59. The Current Fund is 2992229.84
+Trade day 260 Keep.The Current Balance is 11525708.09. The Current Fund is 2992229.84
+Trade day 261 Not enough fund to buy. Do Nothing.The Current Balance is 11529695.84. The Current Fund is 2992229.84
+Trade day 262 Keep.The Current Balance is 11517119.09. The Current Fund is 2992229.84
+Trade day 263 Keep.The Current Balance is 11559450.59. The Current Fund is 2992229.84
+Trade day 264 Keep.The Current Balance is 11558837.09. The Current Fund is 2992229.84
+Trade day 265 Keep.The Current Balance is 11682150.59. The Current Fund is 2992229.84
+Trade day 266 Keep.The Current Balance is 11792580.59. The Current Fund is 2992229.84
+Trade day 267 Keep.The Current Balance is 11833685.09. The Current Fund is 2992229.84
+Trade day 268 Not enough fund to buy. Do Nothing.The Current Balance is 11874789.59. The Current Fund is 2992229.84
+Trade day 269 Keep.The Current Balance is 11807304.59. The Current Fund is 2992229.84
+Trade day 270 Keep.The Current Balance is 11796261.59. The Current Fund is 2992229.84
+Trade day 271 Keep.The Current Balance is 11814359.84. The Current Fund is 2992229.84
+Trade day 272 Not enough fund to buy. Do Nothing.The Current Balance is 11878163.84. The Current Fund is 2992229.84
+Trade day 273 Not enough fund to buy. Do Nothing.The Current Balance is 11866200.59. The Current Fund is 2992229.84
+Trade day 274 Keep.The Current Balance is 11962826.84. The Current Fund is 2992229.84
+Trade day 275 Keep.The Current Balance is 11925710.09. The Current Fund is 2992229.84
+Trade day 276 Keep.The Current Balance is 11916507.59. The Current Fund is 2992229.84
+Trade day 277 Keep.The Current Balance is 11894114.84. The Current Fund is 2992229.84
+Trade day 278 Keep.The Current Balance is 11965587.59. The Current Fund is 2992229.84
+Trade day 279 Keep.The Current Balance is 11860985.84. The Current Fund is 2992229.84
+Trade day 280 Not enough fund to buy. Do Nothing.The Current Balance is 11854850.84. The Current Fund is 2992229.84
+Trade day 281 Keep.The Current Balance is 11665892.84. The Current Fund is 2992229.84
+Trade day 282 Keep.The Current Balance is 11693807.09. The Current Fund is 2992229.84
+Trade day 283 Keep.The Current Balance is 11579696.09. The Current Fund is 2992229.84
+Trade day 284 Keep.The Current Balance is 11650862.09. The Current Fund is 2992229.84
+Trade day 285 Keep.The Current Balance is 11669880.59. The Current Fund is 2992229.84
+Trade day 286 Keep.The Current Balance is 11722641.59. The Current Fund is 2992229.84
+Trade day 287 Keep.The Current Balance is 11624481.59. The Current Fund is 2992229.84
+Trade day 288 Keep.The Current Balance is 11633070.59. The Current Fund is 2992229.84
+Trade day 289 Not enough fund to buy. Do Nothing.The Current Balance is 11734604.84. The Current Fund is 2992229.84
+Trade day 290 Not enough fund to buy. Do Nothing.The Current Balance is 11865893.84. The Current Fund is 2992229.84
+Trade day 291 Keep.The Current Balance is 11950863.59. The Current Fund is 2992229.84
+Trade day 292 Keep.The Current Balance is 11915280.59. The Current Fund is 2992229.84
+Trade day 293 Keep.The Current Balance is 11892887.84. The Current Fund is 2992229.84
+Trade day 294 Keep.The Current Balance is 12049330.34. The Current Fund is 2992229.84
+Trade day 295 Keep.The Current Balance is 12061907.09. The Current Fund is 2992229.84
+Trade day 296 Keep.The Current Balance is 11973869.84. The Current Fund is 2992229.84
+Trade day 297 Keep.The Current Balance is 12100864.34. The Current Fund is 2992229.84
+Trade day 298 Keep.The Current Balance is 12069575.84. The Current Fund is 2992229.84
+Trade day 299 Keep.The Current Balance is 12030618.59. The Current Fund is 2992229.84
+Trade day 300 Keep.The Current Balance is 12021416.09. The Current Fund is 2992229.84
+Trade day 301 Keep.The Current Balance is 12096569.84. The Current Fund is 2992229.84
+Trade day 302 Keep.The Current Balance is 12083379.59. The Current Fund is 2992229.84
+Trade day 303 Keep.The Current Balance is 12174791.09. The Current Fund is 2992229.84
+Trade day 304 Keep.The Current Balance is 12103625.09. The Current Fund is 2992229.84
+Trade day 305 Keep.The Current Balance is 11949636.59. The Current Fund is 2992229.84
+Trade day 306 Keep.The Current Balance is 11835832.34. The Current Fund is 2992229.84
+Trade day 307 Keep.The Current Balance is 11939207.09. The Current Fund is 2992229.84
+Trade day 308 Keep.The Current Balance is 11930924.84. The Current Fund is 2992229.84
+Trade day 309 Keep.The Current Balance is 12061293.59. The Current Fund is 2992229.84
+Trade day 310 Keep.The Current Balance is 12074483.84. The Current Fund is 2992229.84
+Trade day 311 Keep.The Current Balance is 12123870.59. The Current Fund is 2992229.84
+Trade day 312 Keep.The Current Balance is 12168962.84. The Current Fund is 2992229.84
+Trade day 313 Keep.The Current Balance is 12148410.59. The Current Fund is 2992229.84
+Trade day 314 Keep.The Current Balance is 12156999.59. The Current Fund is 2992229.84
+Trade day 315 Not enough fund to buy. Do Nothing.The Current Balance is 12105465.59. The Current Fund is 2992229.84
+Trade day 316 Not enough fund to buy. Do Nothing.The Current Balance is 12094115.84. The Current Fund is 2992229.84
+Trade day 317 Not enough fund to buy. Do Nothing.The Current Balance is 12147797.09. The Current Fund is 2992229.84
+Trade day 318 Not enough fund to buy. Do Nothing.The Current Balance is 12047183.09. The Current Fund is 2992229.84
+Trade day 319 Not enough fund to buy. Do Nothing.The Current Balance is 12048103.34. The Current Fund is 2992229.84
+Trade day 320 Keep.The Current Balance is 12056385.59. The Current Fund is 2992229.84
+Trade day 321 Keep.The Current Balance is 12047489.84. The Current Fund is 2992229.84
+Trade day 322 Not enough fund to buy. Do Nothing.The Current Balance is 12043195.34. The Current Fund is 2992229.84
+Trade day 323 Not enough fund to buy. Do Nothing.The Current Balance is 12112827.59. The Current Fund is 2992229.84
+Trade day 324 Not enough fund to buy. Do Nothing.The Current Balance is 12101171.09. The Current Fund is 2992229.84
+Trade day 325 Keep.The Current Balance is 12189208.34. The Current Fund is 2992229.84
+Trade day 326 Keep.The Current Balance is 12277859.09. The Current Fund is 2992229.84
+Trade day 327 Not enough fund to buy. Do Nothing.The Current Balance is 12293196.59. The Current Fund is 2992229.84
+Trade day 328 Keep.The Current Balance is 12405467.09. The Current Fund is 2992229.84
+Trade day 329 Keep.The Current Balance is 12369270.59. The Current Fund is 2992229.84
+Trade day 330 Not enough fund to buy. Do Nothing.The Current Balance is 12400252.34. The Current Fund is 2992229.84
+Trade day 331 Not enough fund to buy. Do Nothing.The Current Balance is 12450252.59. The Current Fund is 2992229.84
+Trade day 332 Keep.The Current Balance is 12401172.59. The Current Fund is 2992229.84
+Trade day 333 Keep.The Current Balance is 12271724.09. The Current Fund is 2992229.84
+Trade day 334 Not enough fund to buy. Do Nothing.The Current Balance is 12172950.59. The Current Fund is 2992229.84
+Trade day 335 Keep.The Current Balance is 12151171.34. The Current Fund is 2992229.84
+Trade day 336 Keep.The Current Balance is 12177551.84. The Current Fund is 2992229.84
+Trade day 337 Keep.The Current Balance is 12244116.59. The Current Fund is 2992229.84
+Trade day 338 Keep.The Current Balance is 12206079.59. The Current Fund is 2992229.84
+Trade day 339 Keep.The Current Balance is 12308840.84. The Current Fund is 2992229.84
+Trade day 340 Keep.The Current Balance is 12284914.34. The Current Fund is 2992229.84
+Trade day 341 Keep.The Current Balance is 12149637.59. The Current Fund is 2992229.84
+Trade day 342 Not enough fund to buy. Do Nothing.The Current Balance is 12229699.34. The Current Fund is 2992229.84
+Trade day 343 Keep.The Current Balance is 12230006.09. The Current Fund is 2992229.84
+Trade day 344 Keep.The Current Balance is 12333380.84. The Current Fund is 2992229.84
+Trade day 345 Keep.The Current Balance is 12257000.09. The Current Fund is 2992229.84
+Trade day 346 Keep.The Current Balance is 12306080.09. The Current Fund is 2992229.84
+Trade day 347 Keep.The Current Balance is 12313748.84. The Current Fund is 2992229.84
+Trade day 348 Not enough fund to buy. Do Nothing.The Current Balance is 12305159.84. The Current Fund is 2992229.84
+Trade day 349 Keep.The Current Balance is 12395651.09. The Current Fund is 2992229.84
+Trade day 350 Not enough fund to buy. Do Nothing.The Current Balance is 12394730.84. The Current Fund is 2992229.84
+Trade day 351 Successfully Sell 9415691.25  . Sell Fee = 14123.54.The Current Balance is 12393797.55. The Current Fund is 12393797.55
+Trade day 352 Keep.The Current Balance is 12393797.55. The Current Fund is 12393797.55
+Trade day 353 Keep.The Current Balance is 12393797.55. The Current Fund is 12393797.55
+Trade day 354 Keep.The Current Balance is 12393797.55. The Current Fund is 12393797.55
+Trade day 355 Successfully Order 6997040.75  . Buy Fee = 10495.56.The Current Balance is 12383301.99. The Current Fund is 5386261.24
+Trade day 356 Keep.The Current Balance is 12341662.74. The Current Fund is 5386261.24
+Trade day 357 Not enough fund to buy. Do Nothing.The Current Balance is 12344250.49. The Current Fund is 5386261.24
+Trade day 358 Not enough fund to buy. Do Nothing.The Current Balance is 11976084.24. The Current Fund is 5386261.24
+Trade day 359 Keep.The Current Balance is 12013488.99. The Current Fund is 5386261.24
+Trade day 360 Successfully Sell 6749322.50  . Sell Fee = 10123.98.The Current Balance is 12125459.76. The Current Fund is 12125459.76
+Trade day 361 Successfully Order 6998805.00  . Buy Fee = 10498.21.The Current Balance is 12114961.55. The Current Fund is 5116156.55
+Trade day 362 Keep.The Current Balance is 12383004.05. The Current Fund is 5116156.55
+Trade day 363 Keep.The Current Balance is 12357511.55. The Current Fund is 5116156.55
+Trade day 364 Not enough fund to buy. Do Nothing.The Current Balance is 12198864.05. The Current Fund is 5116156.55
+Trade day 365 Keep.The Current Balance is 12152334.05. The Current Fund is 5116156.55
+Trade day 366 Keep.The Current Balance is 12201834.05. The Current Fund is 5116156.55
+Trade day 367 Not enough fund to buy. Do Nothing.The Current Balance is 12185746.55. The Current Fund is 5116156.55
+Trade day 368 Keep.The Current Balance is 11922406.55. The Current Fund is 5116156.55
+Trade day 369 Successfully Sell 6820605.00  . Sell Fee = 10230.91.The Current Balance is 11926530.64. The Current Fund is 11926530.64
+Trade day 370 Keep.The Current Balance is 11926530.64. The Current Fund is 11926530.64
+Trade day 371 Successfully Order 6997341.75  . Buy Fee = 10496.01.The Current Balance is 11916034.63. The Current Fund is 4918692.88
+Trade day 372 Not enough fund to buy. Do Nothing.The Current Balance is 12042255.88. The Current Fund is 4918692.88
+Trade day 373 Not enough fund to buy. Do Nothing.The Current Balance is 12162751.63. The Current Fund is 4918692.88
+Trade day 374 Keep.The Current Balance is 12235621.63. The Current Fund is 4918692.88
+Trade day 375 Keep.The Current Balance is 12182790.88. The Current Fund is 4918692.88
+Trade day 376 Not enough fund to buy. Do Nothing.The Current Balance is 12152341.63. The Current Fund is 4918692.88
+Trade day 377 Not enough fund to buy. Do Nothing.The Current Balance is 12219486.13. The Current Fund is 4918692.88
+Trade day 378 Keep.The Current Balance is 12433671.88. The Current Fund is 4918692.88
+Trade day 379 Successfully Sell 7442629.50  . Sell Fee = 11163.94.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 380 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 381 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 382 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 383 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 384 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 385 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 386 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 387 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 388 Keep.The Current Balance is 12350158.43. The Current Fund is 12350158.43
+Trade day 389 Successfully Order 6996764.75  . Buy Fee = 10495.15.The Current Balance is 12339663.29. The Current Fund is 5342898.54
+Trade day 390 Not enough fund to buy. Do Nothing.The Current Balance is 12349856.79. The Current Fund is 5342898.54
+Trade day 391 Keep.The Current Balance is 12468423.29. The Current Fund is 5342898.54
+Trade day 392 Not enough fund to buy. Do Nothing.The Current Balance is 12550507.79. The Current Fund is 5342898.54
+Trade day 393 Keep.The Current Balance is 12763230.04. The Current Fund is 5342898.54
+Trade day 394 Keep.The Current Balance is 12753036.54. The Current Fund is 5342898.54
+Trade day 395 Not enough fund to buy. Do Nothing.The Current Balance is 12815538.79. The Current Fund is 5342898.54
+Trade day 396 Keep.The Current Balance is 12942152.79. The Current Fund is 5342898.54
+Trade day 397 Keep.The Current Balance is 12670147.29. The Current Fund is 5342898.54
+Trade day 398 Not enough fund to buy. Do Nothing.The Current Balance is 12719237.04. The Current Fund is 5342898.54
+Trade day 399 Not enough fund to buy. Do Nothing.The Current Balance is 12710384.79. The Current Fund is 5342898.54
+Trade day 400 Not enough fund to buy. Do Nothing.The Current Balance is 12472178.79. The Current Fund is 5342898.54
+Trade day 401 Not enough fund to buy. Do Nothing.The Current Balance is 12548898.29. The Current Fund is 5342898.54
+Trade day 402 Not enough fund to buy. Do Nothing.The Current Balance is 12537631.79. The Current Fund is 5342898.54
+Trade day 403 Not enough fund to buy. Do Nothing.The Current Balance is 12627763.79. The Current Fund is 5342898.54
+Trade day 404 Not enough fund to buy. Do Nothing.The Current Balance is 12606303.79. The Current Fund is 5342898.54
+Trade day 405 Not enough fund to buy. Do Nothing.The Current Balance is 12447499.79. The Current Fund is 5342898.54
+Trade day 406 Not enough fund to buy. Do Nothing.The Current Balance is 12308546.29. The Current Fund is 5342898.54
+Trade day 407 Not enough fund to buy. Do Nothing.The Current Balance is 12275551.54. The Current Fund is 5342898.54
+Trade day 408 Keep.The Current Balance is 12155107.29. The Current Fund is 5342898.54
+Trade day 409 Keep.The Current Balance is 12127745.79. The Current Fund is 5342898.54
+Trade day 410 Not enough fund to buy. Do Nothing.The Current Balance is 11844205.54. The Current Fund is 5342898.54
+Trade day 411 Keep.The Current Balance is 11689961.79. The Current Fund is 5342898.54
+Trade day 412 Not enough fund to buy. Do Nothing.The Current Balance is 12077583.04. The Current Fund is 5342898.54
+Trade day 413 Keep.The Current Balance is 12112455.54. The Current Fund is 5342898.54
+Trade day 414 Keep.The Current Balance is 12097701.79. The Current Fund is 5342898.54
+Trade day 415 Keep.The Current Balance is 12146791.54. The Current Fund is 5342898.54
+Trade day 416 Not enough fund to buy. Do Nothing.The Current Balance is 12060951.54. The Current Fund is 5342898.54
+Trade day 417 Not enough fund to buy. Do Nothing.The Current Balance is 11965454.54. The Current Fund is 5342898.54
+Trade day 418 Not enough fund to buy. Do Nothing.The Current Balance is 12244434.54. The Current Fund is 5342898.54
+Trade day 419 Keep.The Current Balance is 12322227.04. The Current Fund is 5342898.54
+Trade day 420 Keep.The Current Balance is 12371853.29. The Current Fund is 5342898.54
+Trade day 421 Keep.The Current Balance is 12428185.79. The Current Fund is 5342898.54
+Trade day 422 Keep.The Current Balance is 12453401.29. The Current Fund is 5342898.54
+Trade day 423 Keep.The Current Balance is 12437574.54. The Current Fund is 5342898.54
+Trade day 424 Keep.The Current Balance is 12366488.29. The Current Fund is 5342898.54
+Trade day 425 Keep.The Current Balance is 12508660.79. The Current Fund is 5342898.54
+Trade day 426 Keep.The Current Balance is 12501149.79. The Current Fund is 5342898.54
+Trade day 427 Keep.The Current Balance is 12564456.79. The Current Fund is 5342898.54
+Trade day 428 Keep.The Current Balance is 12630982.79. The Current Fund is 5342898.54
+Trade day 429 Keep.The Current Balance is 12597451.54. The Current Fund is 5342898.54
+Trade day 430 Keep.The Current Balance is 12481567.54. The Current Fund is 5342898.54
+Trade day 431 Keep.The Current Balance is 12499003.79. The Current Fund is 5342898.54
+Trade day 432 Keep.The Current Balance is 12515903.54. The Current Fund is 5342898.54
+Trade day 433 Keep.The Current Balance is 12628568.54. The Current Fund is 5342898.54
+Trade day 434 Not enough fund to buy. Do Nothing.The Current Balance is 12530120.79. The Current Fund is 5342898.54
+Trade day 435 Keep.The Current Balance is 12511343.29. The Current Fund is 5342898.54
+Trade day 436 Keep.The Current Balance is 12679804.29. The Current Fund is 5342898.54
+Trade day 437 Not enough fund to buy. Do Nothing.The Current Balance is 12780129.79. The Current Fund is 5342898.54
+Trade day 438 Keep.The Current Balance is 12722456.04. The Current Fund is 5342898.54
+Trade day 439 Keep.The Current Balance is 12794347.04. The Current Fund is 5342898.54
+Trade day 440 Not enough fund to buy. Do Nothing.The Current Balance is 12866774.54. The Current Fund is 5342898.54
+Trade day 441 Not enough fund to buy. Do Nothing.The Current Balance is 12842095.54. The Current Fund is 5342898.54
+Trade day 442 Not enough fund to buy. Do Nothing.The Current Balance is 12750622.29. The Current Fund is 5342898.54
+Trade day 443 Not enough fund to buy. Do Nothing.The Current Balance is 12763766.54. The Current Fund is 5342898.54
+Trade day 444 Not enough fund to buy. Do Nothing.The Current Balance is 12757060.29. The Current Fund is 5342898.54
+Trade day 445 Not enough fund to buy. Do Nothing.The Current Balance is 12875090.29. The Current Fund is 5342898.54
+Trade day 446 Not enough fund to buy. Do Nothing.The Current Balance is 12871334.79. The Current Fund is 5342898.54
+Trade day 447 Not enough fund to buy. Do Nothing.The Current Balance is 12871603.04. The Current Fund is 5342898.54
+Trade day 448 Not enough fund to buy. Do Nothing.The Current Balance is 12922034.04. The Current Fund is 5342898.54
+Trade day 449 Not enough fund to buy. Do Nothing.The Current Balance is 12940006.79. The Current Fund is 5342898.54
+Trade day 450 Keep.The Current Balance is 12926594.29. The Current Fund is 5342898.54
+Trade day 451 Keep.The Current Balance is 12930349.79. The Current Fund is 5342898.54
+Trade day 452 Keep.The Current Balance is 12892794.79. The Current Fund is 5342898.54
+Trade day 453 Keep.The Current Balance is 12948859.04. The Current Fund is 5342898.54
+Trade day 454 Keep.The Current Balance is 12983463.29. The Current Fund is 5342898.54
+Trade day 455 Keep.The Current Balance is 12972465.04. The Current Fund is 5342898.54
+Trade day 456 Keep.The Current Balance is 12986414.04. The Current Fund is 5342898.54
+Trade day 457 Keep.The Current Balance is 12971928.54. The Current Fund is 5342898.54
+Trade day 458 Keep.The Current Balance is 13021018.29. The Current Fund is 5342898.54
+Trade day 459 Keep.The Current Balance is 13037113.29. The Current Fund is 5342898.54
+Trade day 460 Keep.The Current Balance is 13052135.29. The Current Fund is 5342898.54
+Trade day 461 Keep.The Current Balance is 13000899.54. The Current Fund is 5342898.54
+Trade day 462 Keep.The Current Balance is 12912108.79. The Current Fund is 5342898.54
+Trade day 463 Keep.The Current Balance is 12911304.04. The Current Fund is 5342898.54
+Trade day 464 Keep.The Current Balance is 13068230.29. The Current Fund is 5342898.54
+Trade day 465 Keep.The Current Balance is 13109272.54. The Current Fund is 5342898.54
+Trade day 466 Keep.The Current Balance is 13175798.54. The Current Fund is 5342898.54
+Trade day 467 Keep.The Current Balance is 13143608.54. The Current Fund is 5342898.54
+Trade day 468 Keep.The Current Balance is 13221937.54. The Current Fund is 5342898.54
+Trade day 469 Keep.The Current Balance is 13243934.04. The Current Fund is 5342898.54
+Trade day 470 Keep.The Current Balance is 13259492.54. The Current Fund is 5342898.54
+Trade day 471 Keep.The Current Balance is 13281489.04. The Current Fund is 5342898.54
+Trade day 472 Keep.The Current Balance is 13422052.04. The Current Fund is 5342898.54
+Trade day 473 Keep.The Current Balance is 13249030.79. The Current Fund is 5342898.54
+Trade day 474 Keep.The Current Balance is 13241519.79. The Current Fund is 5342898.54
+Trade day 475 Keep.The Current Balance is 13264857.54. The Current Fund is 5342898.54
+Trade day 476 Keep.The Current Balance is 13199941.04. The Current Fund is 5342898.54
+Trade day 477 Keep.The Current Balance is 13234277.04. The Current Fund is 5342898.54
+Trade day 478 Keep.The Current Balance is 13293560.29. The Current Fund is 5342898.54
+Trade day 479 Not enough fund to buy. Do Nothing.The Current Balance is 13387447.79. The Current Fund is 5342898.54
+Trade day 480 Keep.The Current Balance is 13407030.04. The Current Fund is 5342898.54
+Trade day 481 Keep.The Current Balance is 13477043.29. The Current Fund is 5342898.54
+Trade day 482 Not enough fund to buy. Do Nothing.The Current Balance is 13457461.04. The Current Fund is 5342898.54
+Trade day 483 Not enough fund to buy. Do Nothing.The Current Balance is 13503063.54. The Current Fund is 5342898.54
+Trade day 484 Keep.The Current Balance is 13525864.79. The Current Fund is 5342898.54
+Trade day 485 Not enough fund to buy. Do Nothing.The Current Balance is 13485359.04. The Current Fund is 5342898.54
+Trade day 486 Keep.The Current Balance is 13544642.29. The Current Fund is 5342898.54
+Trade day 487 Not enough fund to buy. Do Nothing.The Current Balance is 13517817.29. The Current Fund is 5342898.54
+Trade day 488 Successfully Sell 8210327.75  . Sell Fee = 12315.49.The Current Balance is 13540910.80. The Current Fund is 13540910.80
+Trade day 489 Keep.The Current Balance is 13540910.80. The Current Fund is 13540910.80
+Trade day 490 Successfully Order 6992836.00  . Buy Fee = 10489.25.The Current Balance is 13530421.54. The Current Fund is 6537585.54
+Trade day 491 Keep.The Current Balance is 13540442.54. The Current Fund is 6537585.54
+Trade day 492 Not enough fund to buy. Do Nothing.The Current Balance is 13565950.54. The Current Fund is 6537585.54
+Trade day 493 Not enough fund to buy. Do Nothing.The Current Balance is 13588042.29. The Current Fund is 6537585.54
+Trade day 494 Not enough fund to buy. Do Nothing.The Current Balance is 13672537.54. The Current Fund is 6537585.54
+Trade day 495 Not enough fund to buy. Do Nothing.The Current Balance is 13678231.29. The Current Fund is 6537585.54
+Trade day 496 Not enough fund to buy. Do Nothing.The Current Balance is 13639741.54. The Current Fund is 6537585.54
+Trade day 497 Not enough fund to buy. Do Nothing.The Current Balance is 13681419.79. The Current Fund is 6537585.54
+Trade day 498 Not enough fund to buy. Do Nothing.The Current Balance is 13649079.29. The Current Fund is 6537585.54
+Trade day 499 Not enough fund to buy. Do Nothing.The Current Balance is 13690074.29. The Current Fund is 6537585.54
+Trade day 500 Not enough fund to buy. Do Nothing.The Current Balance is 13587131.29. The Current Fund is 6537585.54
+Trade day 501 Not enough fund to buy. Do Nothing.The Current Balance is 13587586.79. The Current Fund is 6537585.54
+Trade day 502 Not enough fund to buy. Do Nothing.The Current Balance is 13702372.79. The Current Fund is 6537585.54
+Trade day 503 Not enough fund to buy. Do Nothing.The Current Balance is 13587586.79. The Current Fund is 6537585.54
+Trade day 504 Not enough fund to buy. Do Nothing.The Current Balance is 13525183.29. The Current Fund is 6537585.54
+Trade day 505 Not enough fund to buy. Do Nothing.The Current Balance is 13498764.29. The Current Fund is 6537585.54
+Trade day 506 Not enough fund to buy. Do Nothing.The Current Balance is 13454125.29. The Current Fund is 6537585.54
+Trade day 507 Not enough fund to buy. Do Nothing.The Current Balance is 13469840.04. The Current Fund is 6537585.54
+Trade day 508 Not enough fund to buy. Do Nothing.The Current Balance is 13199956.29. The Current Fund is 6537585.54
+Trade day 509 Not enough fund to buy. Do Nothing.The Current Balance is 13302216.04. The Current Fund is 6537585.54
+Trade day 510 Keep.The Current Balance is 13394454.79. The Current Fund is 6537585.54
+Trade day 511 Not enough fund to buy. Do Nothing.The Current Balance is 13463007.54. The Current Fund is 6537585.54
+Trade day 512 Not enough fund to buy. Do Nothing.The Current Balance is 13380106.54. The Current Fund is 6537585.54
+Trade day 513 Not enough fund to buy. Do Nothing.The Current Balance is 13283996.04. The Current Fund is 6537585.54
+Trade day 514 Not enough fund to buy. Do Nothing.The Current Balance is 13335012.04. The Current Fund is 6537585.54
+Trade day 515 Not enough fund to buy. Do Nothing.The Current Balance is 13302443.79. The Current Fund is 6537585.54
+Trade day 516 Keep.The Current Balance is 13202689.29. The Current Fund is 6537585.54
+Trade day 517 Keep.The Current Balance is 13201550.54. The Current Fund is 6537585.54
+Trade day 518 Not enough fund to buy. Do Nothing.The Current Balance is 13180597.54. The Current Fund is 6537585.54
+Trade day 519 Not enough fund to buy. Do Nothing.The Current Balance is 13110222.79. The Current Fund is 6537585.54
+Trade day 520 Not enough fund to buy. Do Nothing.The Current Balance is 13145979.54. The Current Fund is 6537585.54
+Trade day 521 Keep.The Current Balance is 13037342.79. The Current Fund is 6537585.54
+Trade day 522 Keep.The Current Balance is 12943054.29. The Current Fund is 6537585.54
+Trade day 523 Not enough fund to buy. Do Nothing.The Current Balance is 13105440.04. The Current Fund is 6537585.54
+Trade day 524 Not enough fund to buy. Do Nothing.The Current Balance is 13146435.04. The Current Fund is 6537585.54
+Trade day 525 Not enough fund to buy. Do Nothing.The Current Balance is 13175814.79. The Current Fund is 6537585.54
+Trade day 526 Not enough fund to buy. Do Nothing.The Current Balance is 13319297.29. The Current Fund is 6537585.54
+Trade day 527 Keep.The Current Balance is 13409030.79. The Current Fund is 6537585.54
+Trade day 528 Keep.The Current Balance is 13409486.29. The Current Fund is 6537585.54
+Trade day 529 Keep.The Current Balance is 13371224.29. The Current Fund is 6537585.54
+Trade day 530 Keep.The Current Balance is 13403564.79. The Current Fund is 6537585.54
+Trade day 531 Keep.The Current Balance is 13373274.04. The Current Fund is 6537585.54
+Trade day 532 Keep.The Current Balance is 13430667.04. The Current Fund is 6537585.54
+Trade day 533 Keep.The Current Balance is 13526549.79. The Current Fund is 6537585.54
+Trade day 534 Not enough fund to buy. Do Nothing.The Current Balance is 13548641.54. The Current Fund is 6537585.54
+Trade day 535 Keep.The Current Balance is 13610589.54. The Current Fund is 6537585.54
+Trade day 536 Keep.The Current Balance is 13598291.04. The Current Fund is 6537585.54
+Trade day 537 Not enough fund to buy. Do Nothing.The Current Balance is 13603073.79. The Current Fund is 6537585.54
+Trade day 538 Keep.The Current Balance is 13492615.04. The Current Fund is 6537585.54
+Trade day 539 Keep.The Current Balance is 13500130.79. The Current Fund is 6537585.54
+Trade day 540 Not enough fund to buy. Do Nothing.The Current Balance is 13539303.79. The Current Fund is 6537585.54
+Trade day 541 Not enough fund to buy. Do Nothing.The Current Balance is 13575060.54. The Current Fund is 6537585.54
+Trade day 542 Not enough fund to buy. Do Nothing.The Current Balance is 13635642.04. The Current Fund is 6537585.54
+Trade day 543 Not enough fund to buy. Do Nothing.The Current Balance is 13679597.79. The Current Fund is 6537585.54
+Trade day 544 Not enough fund to buy. Do Nothing.The Current Balance is 13718087.54. The Current Fund is 6537585.54
+Trade day 545 Not enough fund to buy. Do Nothing.The Current Balance is 13735168.79. The Current Fund is 6537585.54
+Trade day 546 Not enough fund to buy. Do Nothing.The Current Balance is 13689618.79. The Current Fund is 6537585.54
+Trade day 547 Not enough fund to buy. Do Nothing.The Current Balance is 13644524.29. The Current Fund is 6537585.54
+Trade day 548 Not enough fund to buy. Do Nothing.The Current Balance is 13685519.29. The Current Fund is 6537585.54
+Trade day 549 Not enough fund to buy. Do Nothing.The Current Balance is 13757032.79. The Current Fund is 6537585.54
+Trade day 550 Not enough fund to buy. Do Nothing.The Current Balance is 13750428.04. The Current Fund is 6537585.54
+Trade day 551 Not enough fund to buy. Do Nothing.The Current Balance is 13786868.04. The Current Fund is 6537585.54
+Trade day 552 Keep.The Current Balance is 13810098.54. The Current Fund is 6537585.54
+Trade day 553 Not enough fund to buy. Do Nothing.The Current Balance is 13768192.54. The Current Fund is 6537585.54
+Trade day 554 Not enough fund to buy. Do Nothing.The Current Balance is 13706244.54. The Current Fund is 6537585.54
+Trade day 555 Keep.The Current Balance is 13776847.04. The Current Fund is 6537585.54
+Trade day 556 Keep.The Current Balance is 13682330.79. The Current Fund is 6537585.54
+Trade day 557 Not enough fund to buy. Do Nothing.The Current Balance is 13758171.54. The Current Fund is 6537585.54
+Trade day 558 Keep.The Current Balance is 13770925.54. The Current Fund is 6537585.54
+Trade day 559 Not enough fund to buy. Do Nothing.The Current Balance is 13826268.79. The Current Fund is 6537585.54
+Trade day 560 Not enough fund to buy. Do Nothing.The Current Balance is 13808959.79. The Current Fund is 6537585.54
+Trade day 561 Not enough fund to buy. Do Nothing.The Current Balance is 13841983.54. The Current Fund is 6537585.54
+Trade day 562 Not enough fund to buy. Do Nothing.The Current Balance is 13829457.29. The Current Fund is 6537585.54
+Trade day 563 Not enough fund to buy. Do Nothing.The Current Balance is 13815109.04. The Current Fund is 6537585.54
+Trade day 564 Keep.The Current Balance is 13678686.79. The Current Fund is 6537585.54
+Trade day 565 Successfully Sell 7096917.75  . Sell Fee = 10645.38.The Current Balance is 13623857.92. The Current Fund is 13623857.92
+Trade day 566 Successfully Order 6992508.00  . Buy Fee = 10488.76.The Current Balance is 13613369.15. The Current Fund is 6620861.15
+Trade day 567 Not enough fund to buy. Do Nothing.The Current Balance is 13310324.15. The Current Fund is 6620861.15
+Trade day 568 Not enough fund to buy. Do Nothing.The Current Balance is 13446297.15. The Current Fund is 6620861.15
+Trade day 569 Not enough fund to buy. Do Nothing.The Current Balance is 13476488.15. The Current Fund is 6620861.15
+Trade day 570 Keep.The Current Balance is 13637885.15. The Current Fund is 6620861.15
+Trade day 571 Not enough fund to buy. Do Nothing.The Current Balance is 13573871.15. The Current Fund is 6620861.15
+Trade day 572 Keep.The Current Balance is 13495102.15. The Current Fund is 6620861.15
+Trade day 573 Not enough fund to buy. Do Nothing.The Current Balance is 13658542.15. The Current Fund is 6620861.15
+Trade day 574 Keep.The Current Balance is 13409977.15. The Current Fund is 6620861.15
+Trade day 575 Keep.The Current Balance is 13438579.15. The Current Fund is 6620861.15
+Trade day 576 Keep.The Current Balance is 13532784.15. The Current Fund is 6620861.15
+Trade day 577 Keep.The Current Balance is 13629940.15. The Current Fund is 6620861.15
+Trade day 578 Not enough fund to buy. Do Nothing.The Current Balance is 13574325.15. The Current Fund is 6620861.15
+Trade day 579 Keep.The Current Balance is 13664898.15. The Current Fund is 6620861.15
+Trade day 580 Keep.The Current Balance is 13617682.15. The Current Fund is 6620861.15
+Trade day 581 Keep.The Current Balance is 13436990.15. The Current Fund is 6620861.15
+Trade day 582 Keep.The Current Balance is 13510538.15. The Current Fund is 6620861.15
+Trade day 583 Keep.The Current Balance is 13489654.15. The Current Fund is 6620861.15
+Trade day 584 Keep.The Current Balance is 13504863.15. The Current Fund is 6620861.15
+Trade day 585 Keep.The Current Balance is 13617455.15. The Current Fund is 6620861.15
+Trade day 586 Keep.The Current Balance is 13589307.15. The Current Fund is 6620861.15
+Trade day 587 Not enough fund to buy. Do Nothing.The Current Balance is 13547766.15. The Current Fund is 6620861.15
+Trade day 588 Keep.The Current Balance is 13550490.15. The Current Fund is 6620861.15
+Trade day 589 Keep.The Current Balance is 13647192.15. The Current Fund is 6620861.15
+Trade day 590 Keep.The Current Balance is 13764324.15. The Current Fund is 6620861.15
+Trade day 591 Keep.The Current Balance is 13772042.15. The Current Fund is 6620861.15
+Trade day 592 Keep.The Current Balance is 13750023.15. The Current Fund is 6620861.15
+Trade day 593 Keep.The Current Balance is 13737084.15. The Current Fund is 6620861.15
+Trade day 594 Not enough fund to buy. Do Nothing.The Current Balance is 13805638.15. The Current Fund is 6620861.15
+Trade day 595 Keep.The Current Balance is 13822890.15. The Current Fund is 6620861.15
+Trade day 596 Keep.The Current Balance is 13802687.15. The Current Fund is 6620861.15
+Trade day 597 Keep.The Current Balance is 13782711.15. The Current Fund is 6620861.15
+Trade day 598 Successfully Sell 7187955.00  . Sell Fee = 10781.93.The Current Balance is 13798034.22. The Current Fund is 13798034.22
+Trade day 599 Keep.The Current Balance is 13798034.22. The Current Fund is 13798034.22
+Trade day 600 Keep.The Current Balance is 13798034.22. The Current Fund is 13798034.22
+Trade day 601 Keep.The Current Balance is 13798034.22. The Current Fund is 13798034.22
+Trade day 602 Keep.The Current Balance is 13798034.22. The Current Fund is 13798034.22
+Trade day 603 Successfully Order 6994248.00  . Buy Fee = 10491.37.The Current Balance is 13787542.85. The Current Fund is 6793294.85
+Trade day 604 Keep.The Current Balance is 13864382.85. The Current Fund is 6793294.85
+Trade day 605 Keep.The Current Balance is 13831160.85. The Current Fund is 6793294.85
+Trade day 606 Keep.The Current Balance is 13753416.85. The Current Fund is 6793294.85
+Trade day 607 Keep.The Current Balance is 13830030.85. The Current Fund is 6793294.85
+Trade day 608 Not enough fund to buy. Do Nothing.The Current Balance is 13762456.85. The Current Fund is 6793294.85
+Trade day 609 Not enough fund to buy. Do Nothing.The Current Balance is 13622336.85. The Current Fund is 6793294.85
+Trade day 610 Keep.The Current Balance is 13716578.85. The Current Fund is 6793294.85
+Trade day 611 Not enough fund to buy. Do Nothing.The Current Balance is 13811498.85. The Current Fund is 6793294.85
+Trade day 612 Keep.The Current Balance is 13788898.85. The Current Fund is 6793294.85
+Trade day 613 Keep.The Current Balance is 13683808.85. The Current Fund is 6793294.85
+Trade day 614 Not enough fund to buy. Do Nothing.The Current Balance is 13756580.85. The Current Fund is 6793294.85
+Trade day 615 Keep.The Current Balance is 13832516.85. The Current Fund is 6793294.85
+Trade day 616 Keep.The Current Balance is 13895344.85. The Current Fund is 6793294.85
+Trade day 617 Not enough fund to buy. Do Nothing.The Current Balance is 13898056.85. The Current Fund is 6793294.85
+Trade day 618 Not enough fund to buy. Do Nothing.The Current Balance is 13988004.85. The Current Fund is 6793294.85
+Trade day 619 Keep.The Current Balance is 13980998.85. The Current Fund is 6793294.85
+Trade day 620 Keep.The Current Balance is 13982806.85. The Current Fund is 6793294.85
+Trade day 621 Keep.The Current Balance is 13916588.85. The Current Fund is 6793294.85
+Trade day 622 Not enough fund to buy. Do Nothing.The Current Balance is 13977834.85. The Current Fund is 6793294.85
+Trade day 623 Keep.The Current Balance is 13881558.85. The Current Fund is 6793294.85
+Trade day 624 Not enough fund to buy. Do Nothing.The Current Balance is 13949810.85. The Current Fund is 6793294.85
+Trade day 625 Not enough fund to buy. Do Nothing.The Current Balance is 13956590.85. The Current Fund is 6793294.85
+Trade day 626 Not enough fund to buy. Do Nothing.The Current Balance is 14056482.85. The Current Fund is 6793294.85
+Trade day 627 Keep.The Current Balance is 14124960.85. The Current Fund is 6793294.85
+Trade day 628 Keep.The Current Balance is 14075692.85. The Current Fund is 6793294.85
+Trade day 629 Keep.The Current Balance is 14131288.85. The Current Fund is 6793294.85
+Trade day 630 Not enough fund to buy. Do Nothing.The Current Balance is 14107784.85. The Current Fund is 6793294.85
+Trade day 631 Not enough fund to buy. Do Nothing.The Current Balance is 14169256.85. The Current Fund is 6793294.85
+Trade day 632 Not enough fund to buy. Do Nothing.The Current Balance is 14222366.85. The Current Fund is 6793294.85
+Trade day 633 Not enough fund to buy. Do Nothing.The Current Balance is 14215134.85. The Current Fund is 6793294.85
+Trade day 634 Not enough fund to buy. Do Nothing.The Current Balance is 14217168.85. The Current Fund is 6793294.85
+Trade day 635 Keep.The Current Balance is 14234118.85. The Current Fund is 6793294.85
+Trade day 636 Not enough fund to buy. Do Nothing.The Current Balance is 14256718.85. The Current Fund is 6793294.85
+Trade day 637 Not enough fund to buy. Do Nothing.The Current Balance is 14253780.85. The Current Fund is 6793294.85
+Trade day 638 Keep.The Current Balance is 14269600.85. The Current Fund is 6793294.85
+Trade day 639 Keep.The Current Balance is 14269374.85. The Current Fund is 6793294.85
+Trade day 640 Not enough fund to buy. Do Nothing.The Current Balance is 14268018.85. The Current Fund is 6793294.85
+Trade day 641 Not enough fund to buy. Do Nothing.The Current Balance is 14312992.85. The Current Fund is 6793294.85
+Trade day 642 Successfully Sell 7533710.00  . Sell Fee = 11300.57.The Current Balance is 14315704.28. The Current Fund is 14315704.28
+Trade day 643 Successfully Order 6992226.00  . Buy Fee = 10488.34.The Current Balance is 14305215.95. The Current Fund is 7312989.95
+Trade day 644 Successfully Order 6995283.00  . Buy Fee = 10492.92.The Current Balance is 14256338.77. The Current Fund is 307214.02
+Trade day 645 Keep.The Current Balance is 14238667.27. The Current Fund is 307214.02
+Trade day 646 Not enough fund to buy. Do Nothing.The Current Balance is 14243716.27. The Current Fund is 307214.02
+Trade day 647 Not enough fund to buy. Do Nothing.The Current Balance is 14436840.52. The Current Fund is 307214.02
+Trade day 648 Not enough fund to buy. Do Nothing.The Current Balance is 14480598.52. The Current Fund is 307214.02
+Trade day 649 Not enough fund to buy. Do Nothing.The Current Balance is 14574005.02. The Current Fund is 307214.02
+Trade day 650 Keep.The Current Balance is 14551284.52. The Current Fund is 307214.02
+Trade day 651 Not enough fund to buy. Do Nothing.The Current Balance is 14512154.77. The Current Fund is 307214.02
+Trade day 652 Keep.The Current Balance is 14325341.77. The Current Fund is 307214.02
+Trade day 653 Not enough fund to buy. Do Nothing.The Current Balance is 14232776.77. The Current Fund is 307214.02
+Trade day 654 Not enough fund to buy. Do Nothing.The Current Balance is 14302200.52. The Current Fund is 307214.02
+Trade day 655 Keep.The Current Balance is 14326604.02. The Current Fund is 307214.02
+Trade day 656 Keep.The Current Balance is 14478494.77. The Current Fund is 307214.02
+Trade day 657 Keep.The Current Balance is 14396869.27. The Current Fund is 307214.02
+Trade day 658 Not enough fund to buy. Do Nothing.The Current Balance is 14428004.77. The Current Fund is 307214.02
+Trade day 659 Not enough fund to buy. Do Nothing.The Current Balance is 14497428.52. The Current Fund is 307214.02
+Trade day 660 Not enough fund to buy. Do Nothing.The Current Balance is 14608085.77. The Current Fund is 307214.02
+Trade day 661 Keep.The Current Balance is 14645532.52. The Current Fund is 307214.02
+Trade day 662 Keep.The Current Balance is 14792374.27. The Current Fund is 307214.02
+Trade day 663 Keep.The Current Balance is 14784380.02. The Current Fund is 307214.02
+Trade day 664 Keep.The Current Balance is 14821406.02. The Current Fund is 307214.02
+Trade day 665 Keep.The Current Balance is 14916495.52. The Current Fund is 307214.02
+Trade day 666 Keep.The Current Balance is 14966144.02. The Current Fund is 307214.02
+Trade day 667 Not enough fund to buy. Do Nothing.The Current Balance is 14996438.02. The Current Fund is 307214.02
+Trade day 668 Keep.The Current Balance is 14995175.77. The Current Fund is 307214.02
+Trade day 669 Keep.The Current Balance is 15120559.27. The Current Fund is 307214.02
+Trade day 670 Keep.The Current Balance is 15087320.02. The Current Fund is 307214.02
+Trade day 671 Keep.The Current Balance is 15003170.02. The Current Fund is 307214.02
+Trade day 672 Keep.The Current Balance is 14985077.77. The Current Fund is 307214.02
+Trade day 673 Keep.The Current Balance is 15287176.27. The Current Fund is 307214.02
+Trade day 674 Not enough fund to buy. Do Nothing.The Current Balance is 15134023.27. The Current Fund is 307214.02
+Trade day 675 Keep.The Current Balance is 15205550.77. The Current Fund is 307214.02
+Trade day 676 Keep.The Current Balance is 15192086.77. The Current Fund is 307214.02
+Trade day 677 Keep.The Current Balance is 15363332.02. The Current Fund is 307214.02
+Trade day 678 Keep.The Current Balance is 15468098.77. The Current Fund is 307214.02
+Trade day 679 Keep.The Current Balance is 15417188.02. The Current Fund is 307214.02
+Trade day 680 Keep.The Current Balance is 15604842.52. The Current Fund is 307214.02
+Trade day 681 Keep.The Current Balance is 15561084.52. The Current Fund is 307214.02
+Trade day 682 Keep.The Current Balance is 15557718.52. The Current Fund is 307214.02
+Trade day 683 Keep.The Current Balance is 15684785.02. The Current Fund is 307214.02
+Trade day 684 Keep.The Current Balance is 15745793.77. The Current Fund is 307214.02
+Trade day 685 Not enough fund to buy. Do Nothing.The Current Balance is 15748739.02. The Current Fund is 307214.02
+Trade day 686 Keep.The Current Balance is 15747897.52. The Current Fund is 307214.02
+Trade day 687 Keep.The Current Balance is 15769776.52. The Current Fund is 307214.02
+Trade day 688 Keep.The Current Balance is 15876226.27. The Current Fund is 307214.02
+Trade day 689 Not enough fund to buy. Do Nothing.The Current Balance is 15695303.77. The Current Fund is 307214.02
+Trade day 690 Keep.The Current Balance is 15386894.02. The Current Fund is 307214.02
+Trade day 691 Not enough fund to buy. Do Nothing.The Current Balance is 15662064.52. The Current Fund is 307214.02
+Trade day 692 Not enough fund to buy. Do Nothing.The Current Balance is 15630087.52. The Current Fund is 307214.02
+Trade day 693 Keep.The Current Balance is 15853085.02. The Current Fund is 307214.02
+Trade day 694 Keep.The Current Balance is 15479879.77. The Current Fund is 307214.02
+Trade day 695 Not enough fund to buy. Do Nothing.The Current Balance is 15630929.02. The Current Fund is 307214.02
+Trade day 696 Keep.The Current Balance is 16060514.77. The Current Fund is 307214.02
+Trade day 697 Keep.The Current Balance is 16107218.02. The Current Fund is 307214.02
+Trade day 698 Not enough fund to buy. Do Nothing.The Current Balance is 16233022.27. The Current Fund is 307214.02
+Trade day 699 Keep.The Current Balance is 16143402.52. The Current Fund is 307214.02
+Trade day 700 Keep.The Current Balance is 16339051.27. The Current Fund is 307214.02
+Trade day 701 Keep.The Current Balance is 16349149.27. The Current Fund is 307214.02
+Trade day 702 Keep.The Current Balance is 16503143.77. The Current Fund is 307214.02
+Trade day 703 Keep.The Current Balance is 16505668.27. The Current Fund is 307214.02
+Trade day 704 Keep.The Current Balance is 16518711.52. The Current Fund is 307214.02
+Trade day 705 Keep.The Current Balance is 16574250.52. The Current Fund is 307214.02
+Trade day 706 Keep.The Current Balance is 16531334.02. The Current Fund is 307214.02
+Trade day 707 Keep.The Current Balance is 16687853.02. The Current Fund is 307214.02
+Trade day 708 Keep.The Current Balance is 16493887.27. The Current Fund is 307214.02
+Trade day 709 Keep.The Current Balance is 16227131.77. The Current Fund is 307214.02
+Trade day 710 Keep.The Current Balance is 15615361.27. The Current Fund is 307214.02
+Trade day 711 Keep.The Current Balance is 15240893.77. The Current Fund is 307214.02
+Trade day 712 Keep.The Current Balance is 15152536.27. The Current Fund is 307214.02
+Trade day 713 Keep.The Current Balance is 14353111.27. The Current Fund is 307214.02
+Trade day 714 Keep.The Current Balance is 14620708.27. The Current Fund is 307214.02
+Trade day 715 Keep.The Current Balance is 15149591.02. The Current Fund is 307214.02
+Trade day 716 Keep.The Current Balance is 14711169.52. The Current Fund is 307214.02
+Trade day 717 Keep.The Current Balance is 15266559.52. The Current Fund is 307214.02
+Trade day 718 Keep.The Current Balance is 14903031.52. The Current Fund is 307214.02
+Trade day 719 Keep.The Current Balance is 14648898.52. The Current Fund is 307214.02
+Trade day 720 Keep.The Current Balance is 13601231.02. The Current Fund is 307214.02
+Trade day 721 Keep.The Current Balance is 14350166.02. The Current Fund is 307214.02
+Trade day 722 Keep.The Current Balance is 13757750.02. The Current Fund is 307214.02
+Trade day 723 Keep.The Current Balance is 12339822.52. The Current Fund is 307214.02
+Trade day 724 Keep.The Current Balance is 13602072.52. The Current Fund is 307214.02
+Trade day 725 Keep.The Current Balance is 12145015.27. The Current Fund is 307214.02
+Trade day 726 Keep.The Current Balance is 12672215.02. The Current Fund is 307214.02
+Trade day 727 Keep.The Current Balance is 12492554.77. The Current Fund is 307214.02
+Trade day 728 Not enough fund to buy. Do Nothing.The Current Balance is 12397886.02. The Current Fund is 307214.02
+Trade day 729 Not enough fund to buy. Do Nothing.The Current Balance is 12033095.77. The Current Fund is 307214.02
+Trade day 730 Keep.The Current Balance is 12044035.27. The Current Fund is 307214.02
+Trade day 731 Keep.The Current Balance is 13018071.52. The Current Fund is 307214.02
+Trade day 732 Keep.The Current Balance is 12891846.52. The Current Fund is 307214.02
+Trade day 733 Keep.The Current Balance is 13540222.27. The Current Fund is 307214.02
+Trade day 734 Not enough fund to buy. Do Nothing.The Current Balance is 13052152.27. The Current Fund is 307214.02
+Trade day 735 Not enough fund to buy. Do Nothing.The Current Balance is 13523392.27. The Current Fund is 307214.02
+Trade day 736 Keep.The Current Balance is 13400533.27. The Current Fund is 307214.02
+Trade day 737 Keep.The Current Balance is 12866601.52. The Current Fund is 307214.02
+Trade day 738 Keep.The Current Balance is 13132936.27. The Current Fund is 307214.02
+Trade day 739 Keep.The Current Balance is 12960849.52. The Current Fund is 307214.02
+Trade day 740 Keep.The Current Balance is 13830539.77. The Current Fund is 307214.02
+Trade day 741 Keep.The Current Balance is 13767848.02. The Current Fund is 307214.02
+Trade day 742 Keep.The Current Balance is 14109076.27. The Current Fund is 307214.02
+Trade day 743 Keep.The Current Balance is 14173451.02. The Current Fund is 307214.02
+Trade day 744 Keep.The Current Balance is 14338385.02. The Current Fund is 307214.02
+Trade day 745 Keep.The Current Balance is 14952680.02. The Current Fund is 307214.02
+Trade day 746 Keep.The Current Balance is 14739359.77. The Current Fund is 307214.02
+Trade day 747 Keep.The Current Balance is 15176939.77. The Current Fund is 307214.02
+Trade day 748 Keep.The Current Balance is 15131919.52. The Current Fund is 307214.02
+Trade day 749 Keep.The Current Balance is 14970772.27. The Current Fund is 307214.02
+Trade day 750 Keep.The Current Balance is 14502477.52. The Current Fund is 307214.02
+Trade day 751 Keep.The Current Balance is 14834870.02. The Current Fund is 307214.02
+Trade day 752 Keep.The Current Balance is 14781014.02. The Current Fund is 307214.02
+Trade day 753 Keep.The Current Balance is 15062075.02. The Current Fund is 307214.02
+Trade day 754 Keep.The Current Balance is 15145804.27. The Current Fund is 307214.02
+Trade day 755 Keep.The Current Balance is 14946368.77. The Current Fund is 307214.02
+Trade day 756 Keep.The Current Balance is 15652387.27. The Current Fund is 307214.02
+Trade day 757 Keep.The Current Balance is 15232478.77. The Current Fund is 307214.02
+Trade day 758 Not enough fund to buy. Do Nothing.The Current Balance is 14976662.77. The Current Fund is 307214.02
+Trade day 759 Keep.The Current Balance is 15131919.52. The Current Fund is 307214.02
+Trade day 760 Keep.The Current Balance is 15340611.52. The Current Fund is 307214.02
+Trade day 761 Keep.The Current Balance is 15361649.02. The Current Fund is 307214.02
+Trade day 762 Keep.The Current Balance is 15651966.52. The Current Fund is 307214.02
+Trade day 763 Keep.The Current Balance is 15820687.27. The Current Fund is 307214.02
+Trade day 764 Keep.The Current Balance is 15925033.27. The Current Fund is 307214.02
+Trade day 765 Keep.The Current Balance is 15526583.02. The Current Fund is 307214.02
+Trade day 766 Keep.The Current Balance is 15474830.77. The Current Fund is 307214.02
+Trade day 767 Keep.The Current Balance is 15601055.77. The Current Fund is 307214.02
+Trade day 768 Keep.The Current Balance is 15615361.27. The Current Fund is 307214.02
+Trade day 769 Keep.The Current Balance is 15986883.52. The Current Fund is 307214.02
+Trade day 770 Not enough fund to buy. Do Nothing.The Current Balance is 15953223.52. The Current Fund is 307214.02
+Trade day 771 Keep.The Current Balance is 16284774.52. The Current Fund is 307214.02
+Trade day 772 Keep.The Current Balance is 16056728.02. The Current Fund is 307214.02
+Trade day 773 Keep.The Current Balance is 16137091.27. The Current Fund is 307214.02
+Trade day 774 Not enough fund to buy. Do Nothing.The Current Balance is 16346204.02. The Current Fund is 307214.02
+Trade day 775 Keep.The Current Balance is 16145506.27. The Current Fund is 307214.02
+Trade day 776 Keep.The Current Balance is 16195575.52. The Current Fund is 307214.02
+Trade day 777 Not enough fund to buy. Do Nothing.The Current Balance is 16226290.27. The Current Fund is 307214.02
+Trade day 778 Keep.The Current Balance is 16423201.27. The Current Fund is 307214.02
+Trade day 779 Keep.The Current Balance is 16418993.77. The Current Fund is 307214.02
+Trade day 780 Keep.The Current Balance is 16528388.77. The Current Fund is 307214.02
+Trade day 781 Keep.The Current Balance is 16581403.27. The Current Fund is 307214.02
+Trade day 782 Keep.The Current Balance is 16504406.02. The Current Fund is 307214.02
+Trade day 783 Keep.The Current Balance is 16784204.77. The Current Fund is 307214.02
+Trade day 784 Keep.The Current Balance is 16911692.02. The Current Fund is 307214.02
+Trade day 785 Keep.The Current Balance is 17043386.77. The Current Fund is 307214.02
+Trade day 786 Keep.The Current Balance is 17257127.77. The Current Fund is 307214.02
+Trade day 787 Keep.The Current Balance is 16473691.27. The Current Fund is 307214.02
+Trade day 788 Keep.The Current Balance is 16518711.52. The Current Fund is 307214.02
+Trade day 789 Keep.The Current Balance is 16798089.52. The Current Fund is 307214.02
+Trade day 790 Keep.The Current Balance is 17066528.02. The Current Fund is 307214.02
+Trade day 791 Keep.The Current Balance is 17111548.27. The Current Fund is 307214.02
+Trade day 792 Keep.The Current Balance is 17113231.27. The Current Fund is 307214.02
+Trade day 793 Keep.The Current Balance is 17000470.27. The Current Fund is 307214.02
+Trade day 794 Keep.The Current Balance is 17339174.02. The Current Fund is 307214.02
+Trade day 795 Keep.The Current Balance is 17433842.77. The Current Fund is 307214.02
+Trade day 796 Keep.The Current Balance is 17160776.02. The Current Fund is 307214.02
+Trade day 797 Keep.The Current Balance is 17296678.27. The Current Fund is 307214.02
+Trade day 798 Keep.The Current Balance is 16911692.02. The Current Fund is 307214.02
+Trade day 799 Not enough fund to buy. Do Nothing.The Current Balance is 17111548.27. The Current Fund is 307214.02
+Trade day 800 Not enough fund to buy. Do Nothing.The Current Balance is 17369468.02. The Current Fund is 307214.02
+Trade day 801 Keep.The Current Balance is 17565537.52. The Current Fund is 307214.02
+Trade day 802 Keep.The Current Balance is 17724581.02. The Current Fund is 307214.02
+Trade day 803 Keep.The Current Balance is 17686713.52. The Current Fund is 307214.02
+Trade day 804 Keep.The Current Balance is 18141965.02. The Current Fund is 307214.02
+Trade day 805 Not enough fund to buy. Do Nothing.The Current Balance is 18022051.27. The Current Fund is 307214.02
+Trade day 806 Keep.The Current Balance is 18266086.27. The Current Fund is 307214.02
+Trade day 807 Not enough fund to buy. Do Nothing.The Current Balance is 18354023.02. The Current Fund is 307214.02
+Trade day 808 Not enough fund to buy. Do Nothing.The Current Balance is 18546305.77. The Current Fund is 307214.02
+Trade day 809 Not enough fund to buy. Do Nothing.The Current Balance is 18142806.52. The Current Fund is 307214.02
+Trade day 810 Not enough fund to buy. Do Nothing.The Current Balance is 18219383.02. The Current Fund is 307214.02
+Trade day 811 Not enough fund to buy. Do Nothing.The Current Balance is 18294697.27. The Current Fund is 307214.02
+Trade day 812 Not enough fund to buy. Do Nothing.The Current Balance is 18034673.77. The Current Fund is 307214.02
+Trade day 813 Not enough fund to buy. Do Nothing.The Current Balance is 18180674.02. The Current Fund is 307214.02
+Trade day 814 Not enough fund to buy. Do Nothing.The Current Balance is 18730594.27. The Current Fund is 307214.02
+Trade day 815 Not enough fund to buy. Do Nothing.The Current Balance is 18558507.52. The Current Fund is 307214.02
+Trade day 816 Keep.The Current Balance is 18558507.52. The Current Fund is 307214.02
+Trade day 817 Not enough fund to buy. Do Nothing.The Current Balance is 18086005.27. The Current Fund is 307214.02
+Trade day 818 Not enough fund to buy. Do Nothing.The Current Balance is 17908028.02. The Current Fund is 307214.02
+Trade day 819 Not enough fund to buy. Do Nothing.The Current Balance is 18283757.77. The Current Fund is 307214.02
+Trade day 820 Not enough fund to buy. Do Nothing.The Current Balance is 18056973.52. The Current Fund is 307214.02
+Trade day 821 Not enough fund to buy. Do Nothing.The Current Balance is 18312368.77. The Current Fund is 307214.02
+Trade day 822 Not enough fund to buy. Do Nothing.The Current Balance is 18635925.52. The Current Fund is 307214.02
+Trade day 823 Not enough fund to buy. Do Nothing.The Current Balance is 18657804.52. The Current Fund is 307214.02
+Trade day 824 Not enough fund to buy. Do Nothing.The Current Balance is 18906467.77. The Current Fund is 307214.02
+Trade day 825 Not enough fund to buy. Do Nothing.The Current Balance is 18950225.77. The Current Fund is 307214.02
+Trade day 826 Not enough fund to buy. Do Nothing.The Current Balance is 18979678.27. The Current Fund is 307214.02
+Trade day 827 Not enough fund to buy. Do Nothing.The Current Balance is 19253165.77. The Current Fund is 307214.02
+Trade day 828 Not enough fund to buy. Do Nothing.The Current Balance is 19028906.02. The Current Fund is 307214.02
+Trade day 829 Not enough fund to buy. Do Nothing.The Current Balance is 18953171.02. The Current Fund is 307214.02
+Trade day 830 Not enough fund to buy. Do Nothing.The Current Balance is 18668323.27. The Current Fund is 307214.02
+Trade day 831 Not enough fund to buy. Do Nothing.The Current Balance is 19015442.02. The Current Fund is 307214.02
+Trade day 832 Not enough fund to buy. Do Nothing.The Current Balance is 19124416.27. The Current Fund is 307214.02
+Trade day 833 Not enough fund to buy. Do Nothing.The Current Balance is 19050364.27. The Current Fund is 307214.02
+Trade day 834 Not enough fund to buy. Do Nothing.The Current Balance is 19301552.02. The Current Fund is 307214.02
+Trade day 835 Not enough fund to buy. Do Nothing.The Current Balance is 19514872.27. The Current Fund is 307214.02
+Trade day 836 Not enough fund to buy. Do Nothing.The Current Balance is 19360457.02. The Current Fund is 307214.02
+Trade day 837 Not enough fund to buy. Do Nothing.The Current Balance is 19627212.52. The Current Fund is 307214.02
+Trade day 838 Not enough fund to buy. Do Nothing.The Current Balance is 19763956.27. The Current Fund is 307214.02
+Trade day 839 Keep.The Current Balance is 19885553.02. The Current Fund is 307214.02
+Trade day 840 Keep.The Current Balance is 20058481.27. The Current Fund is 307214.02
+Trade day 841 Keep.The Current Balance is 20476706.77. The Current Fund is 307214.02
+Trade day 842 Keep.The Current Balance is 20412752.77. The Current Fund is 307214.02
+Trade day 843 Keep.The Current Balance is 20487646.27. The Current Fund is 307214.02
+Trade day 844 Keep.The Current Balance is 20682874.27. The Current Fund is 307214.02
+Trade day 845 Keep.The Current Balance is 21054396.52. The Current Fund is 307214.02
+Trade day 846 Keep.The Current Balance is 21187774.27. The Current Fund is 307214.02
+Trade day 847 Keep.The Current Balance is 20169138.52. The Current Fund is 307214.02
+Trade day 848 Keep.The Current Balance is 19745022.52. The Current Fund is 307214.02
+Trade day 849 Not enough fund to buy. Do Nothing.The Current Balance is 19645725.52. The Current Fund is 307214.02
+Trade day 850 Keep.The Current Balance is 18869441.77. The Current Fund is 307214.02
+Trade day 851 Keep.The Current Balance is 19418099.77. The Current Fund is 307214.02
+Trade day 852 Not enough fund to buy. Do Nothing.The Current Balance is 19092018.52. The Current Fund is 307214.02
+Trade day 853 Not enough fund to buy. Do Nothing.The Current Balance is 18903101.77. The Current Fund is 307214.02
+Trade day 854 Keep.The Current Balance is 19256952.52. The Current Fund is 307214.02
+Trade day 855 Keep.The Current Balance is 19572935.77. The Current Fund is 307214.02
+Trade day 856 Keep.The Current Balance is 19240122.52. The Current Fund is 307214.02
+Trade day 857 Keep.The Current Balance is 18930871.27. The Current Fund is 307214.02
+Trade day 858 Keep.The Current Balance is 18697775.77. The Current Fund is 307214.02
+Trade day 859 Keep.The Current Balance is 18790761.52. The Current Fund is 307214.02
+Trade day 860 Keep.The Current Balance is 19075188.52. The Current Fund is 307214.02
+Trade day 861 Keep.The Current Balance is 18514328.77. The Current Fund is 307214.02
+Trade day 862 Keep.The Current Balance is 18664115.77. The Current Fund is 307214.02
+Trade day 863 Keep.The Current Balance is 19048681.27. The Current Fund is 307214.02
+Trade day 864 Keep.The Current Balance is 19482895.27. The Current Fund is 307214.02
+Trade day 865 Keep.The Current Balance is 19356249.52. The Current Fund is 307214.02
+Trade day 866 Keep.The Current Balance is 19419782.77. The Current Fund is 307214.02
+Trade day 867 Keep.The Current Balance is 19782890.02. The Current Fund is 307214.02
+Trade day 868 Keep.The Current Balance is 19211932.27. The Current Fund is 307214.02
+Trade day 869 Keep.The Current Balance is 19609541.02. The Current Fund is 307214.02
+Trade day 870 Successfully Sell 18860118.75  . Sell Fee = 28290.18.The Current Balance is 19139042.59. The Current Fund is 19139042.59
+Trade day 871 Keep.The Current Balance is 19139042.59. The Current Fund is 19139042.59
+Trade day 872 Keep.The Current Balance is 19139042.59. The Current Fund is 19139042.59
+Trade day 873 Keep.The Current Balance is 19139042.59. The Current Fund is 19139042.59
+Trade day 874 Keep.The Current Balance is 19139042.59. The Current Fund is 19139042.59
+Trade day 875 Keep.The Current Balance is 19139042.59. The Current Fund is 19139042.59
+Trade day 876 Successfully Order 6998305.00  . Buy Fee = 10497.46.The Current Balance is 19128545.13. The Current Fund is 12130240.13
+Trade day 877 Keep.The Current Balance is 19093531.63. The Current Fund is 12130240.13
+Trade day 878 Keep.The Current Balance is 19043428.63. The Current Fund is 12130240.13
+Trade day 879 Keep.The Current Balance is 18981898.63. The Current Fund is 12130240.13
+Trade day 880 Keep.The Current Balance is 18957579.63. The Current Fund is 12130240.13
+Trade day 881 Keep.The Current Balance is 18978382.63. The Current Fund is 12130240.13
+Trade day 882 Keep.The Current Balance is 18960656.13. The Current Fund is 12130240.13
+Trade day 883 Keep.The Current Balance is 18963293.13. The Current Fund is 12130240.13
+Trade day 884 Keep.The Current Balance is 18867335.63. The Current Fund is 12130240.13
+Trade day 885 Keep.The Current Balance is 18900444.63. The Current Fund is 12130240.13
+Trade day 886 Keep.The Current Balance is 18678936.63. The Current Fund is 12130240.13
+Trade day 887 Keep.The Current Balance is 18718931.13. The Current Fund is 12130240.13
+Trade day 888 Keep.The Current Balance is 18618432.13. The Current Fund is 12130240.13
+Trade day 889 Keep.The Current Balance is 18619164.63. The Current Fund is 12130240.13
+Trade day 890 Keep.The Current Balance is 18720689.13. The Current Fund is 12130240.13
+Trade day 891 Keep.The Current Balance is 19052951.13. The Current Fund is 12130240.13
+Trade day 892 Keep.The Current Balance is 19215126.63. The Current Fund is 12130240.13
+Trade day 893 Keep.The Current Balance is 19212782.63. The Current Fund is 12130240.13
+Trade day 894 Keep.The Current Balance is 19071117.13. The Current Fund is 12130240.13
+Trade day 895 Keep.The Current Balance is 18941025.13. The Current Fund is 12130240.13
+Trade day 896 Successfully Order 6992055.00  . Buy Fee = 10488.08.The Current Balance is 19088024.55. The Current Fund is 5127697.05
+Trade day 897 Keep.The Current Balance is 19053391.55. The Current Fund is 5127697.05
+Trade day 898 Keep.The Current Balance is 19151127.05. The Current Fund is 5127697.05
+Trade day 899 Keep.The Current Balance is 19262657.05. The Current Fund is 5127697.05
+Trade day 900 Not enough fund to buy. Do Nothing.The Current Balance is 19178422.55. The Current Fund is 5127697.05
+Trade day 901 Not enough fund to buy. Do Nothing.The Current Balance is 19066892.55. The Current Fund is 5127697.05
+Trade day 902 Keep.The Current Balance is 19174020.05. The Current Fund is 5127697.05
+Trade day 903 Not enough fund to buy. Do Nothing.The Current Balance is 19080393.55. The Current Fund is 5127697.05
+Trade day 904 Not enough fund to buy. Do Nothing.The Current Balance is 19117081.05. The Current Fund is 5127697.05
+Trade day 905 Not enough fund to buy. Do Nothing.The Current Balance is 19333684.05. The Current Fund is 5127697.05
+Trade day 906 Not enough fund to buy. Do Nothing.The Current Balance is 19412635.55. The Current Fund is 5127697.05
+Trade day 907 Not enough fund to buy. Do Nothing.The Current Balance is 19395319.05. The Current Fund is 5127697.05
+Trade day 908 Not enough fund to buy. Do Nothing.The Current Balance is 19531209.55. The Current Fund is 5127697.05
+Trade day 909 Not enough fund to buy. Do Nothing.The Current Balance is 19588442.05. The Current Fund is 5127697.05
+Trade day 910 Not enough fund to buy. Do Nothing.The Current Balance is 19753389.05. The Current Fund is 5127697.05
+Trade day 911 Not enough fund to buy. Do Nothing.The Current Balance is 19758378.55. The Current Fund is 5127697.05
+Trade day 912 Not enough fund to buy. Do Nothing.The Current Balance is 19788022.05. The Current Fund is 5127697.05
+Trade day 913 Not enough fund to buy. Do Nothing.The Current Balance is 19810915.05. The Current Fund is 5127697.05
+Trade day 914 Not enough fund to buy. Do Nothing.The Current Balance is 19878420.05. The Current Fund is 5127697.05
+Trade day 915 Not enough fund to buy. Do Nothing.The Current Balance is 19969698.55. The Current Fund is 5127697.05
+Trade day 916 Not enough fund to buy. Do Nothing.The Current Balance is 19623662.05. The Current Fund is 5127697.05
+Trade day 917 Not enough fund to buy. Do Nothing.The Current Balance is 19668567.55. The Current Fund is 5127697.05
+Trade day 918 Not enough fund to buy. Do Nothing.The Current Balance is 19644794.05. The Current Fund is 5127697.05
+Trade day 919 Not enough fund to buy. Do Nothing.The Current Balance is 19769238.05. The Current Fund is 5127697.05
+Trade day 920 Keep.The Current Balance is 19917455.55. The Current Fund is 5127697.05
+Trade day 921 Not enough fund to buy. Do Nothing.The Current Balance is 20009027.55. The Current Fund is 5127697.05
+Trade day 922 Not enough fund to buy. Do Nothing.The Current Balance is 20099132.05. The Current Fund is 5127697.05
+Trade day 923 Not enough fund to buy. Do Nothing.The Current Balance is 20081815.55. The Current Fund is 5127697.05
+Trade day 924 Not enough fund to buy. Do Nothing.The Current Balance is 20026050.55. The Current Fund is 5127697.05
+Trade day 925 Not enough fund to buy. Do Nothing.The Current Balance is 20043954.05. The Current Fund is 5127697.05
+Trade day 926 Keep.The Current Balance is 19984960.55. The Current Fund is 5127697.05
+Trade day 927 Keep.The Current Balance is 20041899.55. The Current Fund is 5127697.05
+Trade day 928 Keep.The Current Balance is 20203324.55. The Current Fund is 5127697.05
+Trade day 929 Keep.The Current Balance is 20221228.05. The Current Fund is 5127697.05
+Trade day 930 Keep.The Current Balance is 20202737.55. The Current Fund is 5127697.05
+Trade day 931 Keep.The Current Balance is 20183660.05. The Current Fund is 5127697.05
+Trade day 932 Keep.The Current Balance is 20022822.05. The Current Fund is 5127697.05
+Trade day 933 Keep.The Current Balance is 20158419.05. The Current Fund is 5127697.05
+Trade day 934 Keep.The Current Balance is 19987602.05. The Current Fund is 5127697.05
+Trade day 935 Keep.The Current Balance is 20301940.55. The Current Fund is 5127697.05
+Trade day 936 Keep.The Current Balance is 20523239.55. The Current Fund is 5127697.05
+Trade day 937 Keep.The Current Balance is 20276699.55. The Current Fund is 5127697.05
+Trade day 938 Keep.The Current Balance is 20250284.55. The Current Fund is 5127697.05
+Trade day 939 Keep.The Current Balance is 20357412.05. The Current Fund is 5127697.05
+Trade day 940 Keep.The Current Balance is 20270242.55. The Current Fund is 5127697.05
+Trade day 941 Keep.The Current Balance is 20122025.05. The Current Fund is 5127697.05
+Trade day 942 Keep.The Current Balance is 20166050.05. The Current Fund is 5127697.05
+Trade day 943 Keep.The Current Balance is 20425210.55. The Current Fund is 5127697.05
+Trade day 944 Keep.The Current Balance is 20728396.05. The Current Fund is 5127697.05
+Trade day 945 Keep.The Current Balance is 20853720.55. The Current Fund is 5127697.05
+Trade day 946 Keep.The Current Balance is 20809108.55. The Current Fund is 5127697.05
+Trade day 947 Keep.The Current Balance is 20932672.05. The Current Fund is 5127697.05
+Trade day 948 Keep.The Current Balance is 21035103.55. The Current Fund is 5127697.05
+Trade day 949 Keep.The Current Balance is 20460430.55. The Current Fund is 5127697.05
+Trade day 950 Keep.The Current Balance is 20568145.05. The Current Fund is 5127697.05
+Trade day 951 Keep.The Current Balance is 20254980.55. The Current Fund is 5127697.05
+Trade day 952 Keep.The Current Balance is 20663532.55. The Current Fund is 5127697.05
+Trade day 953 Not enough fund to buy. Do Nothing.The Current Balance is 20973762.05. The Current Fund is 5127697.05
+Trade day 954 Not enough fund to buy. Do Nothing.The Current Balance is 20876613.55. The Current Fund is 5127697.05
+Trade day 955 Keep.The Current Balance is 21049485.05. The Current Fund is 5127697.05
+Trade day 956 Not enough fund to buy. Do Nothing.The Current Balance is 21099380.05. The Current Fund is 5127697.05
+Trade day 957 Not enough fund to buy. Do Nothing.The Current Balance is 21193300.05. The Current Fund is 5127697.05
+Trade day 958 Not enough fund to buy. Do Nothing.The Current Balance is 21207975.05. The Current Fund is 5127697.05
+Trade day 959 Not enough fund to buy. Do Nothing.The Current Balance is 21168939.55. The Current Fund is 5127697.05
+Trade day 960 Not enough fund to buy. Do Nothing.The Current Balance is 21222943.55. The Current Fund is 5127697.05
+Trade day 961 Not enough fund to buy. Do Nothing.The Current Balance is 21345626.55. The Current Fund is 5127697.05
+Trade day 962 Not enough fund to buy. Do Nothing.The Current Balance is 21412544.55. The Current Fund is 5127697.05
+Trade day 963 Keep.The Current Balance is 21274306.05. The Current Fund is 5127697.05
+Trade day 964 Not enough fund to buy. Do Nothing.The Current Balance is 21209149.05. The Current Fund is 5127697.05
+Trade day 965 Not enough fund to buy. Do Nothing.The Current Balance is 21140470.05. The Current Fund is 5127697.05
+Trade day 966 Not enough fund to buy. Do Nothing.The Current Balance is 21057703.05. The Current Fund is 5127697.05
+Trade day 967 Not enough fund to buy. Do Nothing.The Current Balance is 20648270.55. The Current Fund is 5127697.05
+Trade day 968 Keep.The Current Balance is 20573134.55. The Current Fund is 5127697.05
+Trade day 969 Not enough fund to buy. Do Nothing.The Current Balance is 20757159.05. The Current Fund is 5127697.05
+Trade day 970 Not enough fund to buy. Do Nothing.The Current Balance is 20139048.05. The Current Fund is 5127697.05
+Trade day 971 Not enough fund to buy. Do Nothing.The Current Balance is 20259383.05. The Current Fund is 5127697.05
+Trade day 972 Not enough fund to buy. Do Nothing.The Current Balance is 20755985.05. The Current Fund is 5127697.05
+Trade day 973 Not enough fund to buy. Do Nothing.The Current Balance is 20453093.05. The Current Fund is 5127697.05
+Trade day 974 Not enough fund to buy. Do Nothing.The Current Balance is 20010201.55. The Current Fund is 5127697.05
+Trade day 975 Not enough fund to buy. Do Nothing.The Current Balance is 19721104.05. The Current Fund is 5127697.05
+Trade day 976 Not enough fund to buy. Do Nothing.The Current Balance is 19985254.05. The Current Fund is 5127697.05
+Trade day 977 Not enough fund to buy. Do Nothing.The Current Balance is 19599008.05. The Current Fund is 5127697.05
+Trade day 978 Not enough fund to buy. Do Nothing.The Current Balance is 20127895.05. The Current Fund is 5127697.05
+Trade day 979 Not enough fund to buy. Do Nothing.The Current Balance is 20125253.55. The Current Fund is 5127697.05
+Trade day 980 Not enough fund to buy. Do Nothing.The Current Balance is 20430493.55. The Current Fund is 5127697.05
+Trade day 981 Not enough fund to buy. Do Nothing.The Current Balance is 20302234.05. The Current Fund is 5127697.05
+Trade day 982 Keep.The Current Balance is 20475105.55. The Current Fund is 5127697.05
+Trade day 983 Not enough fund to buy. Do Nothing.The Current Balance is 20568732.05. The Current Fund is 5127697.05
+Trade day 984 Not enough fund to buy. Do Nothing.The Current Balance is 20589277.05. The Current Fund is 5127697.05
+Trade day 985 Not enough fund to buy. Do Nothing.The Current Balance is 20142570.05. The Current Fund is 5127697.05
+Trade day 986 Keep.The Current Balance is 20190410.55. The Current Fund is 5127697.05
+Trade day 987 Keep.The Current Balance is 20461898.05. The Current Fund is 5127697.05
+Trade day 988 Keep.The Current Balance is 20424623.55. The Current Fund is 5127697.05
+Trade day 989 Keep.The Current Balance is 20150788.05. The Current Fund is 5127697.05
+Trade day 990 Keep.The Current Balance is 20143157.05. The Current Fund is 5127697.05
+Trade day 991 Keep.The Current Balance is 20340976.05. The Current Fund is 5127697.05
+Trade day 992 Keep.The Current Balance is 20346259.05. The Current Fund is 5127697.05
+Trade day 993 Keep.The Current Balance is 20259089.55. The Current Fund is 5127697.05
+Trade day 994 Keep.The Current Balance is 20493302.55. The Current Fund is 5127697.05
+Trade day 995 Keep.The Current Balance is 20773301.55. The Current Fund is 5127697.05
+Trade day 996 Keep.The Current Balance is 21092629.55. The Current Fund is 5127697.05
+Trade day 997 Not enough fund to buy. Do Nothing.The Current Balance is 21074139.05. The Current Fund is 5127697.05
+Trade day 998 Keep.The Current Balance is 21118164.05. The Current Fund is 5127697.05
+Trade day 999 Keep.The Current Balance is 21314515.55. The Current Fund is 5127697.05
+Trade day 1000 Keep.The Current Balance is 21339169.55. The Current Fund is 5127697.05
+Trade day 1001 Not enough fund to buy. Do Nothing.The Current Balance is 21355899.05. The Current Fund is 5127697.05
+Trade day 1002 Not enough fund to buy. Do Nothing.The Current Balance is 21533173.05. The Current Fund is 5127697.05
+Trade day 1003 Not enough fund to buy. Do Nothing.The Current Balance is 21358834.05. The Current Fund is 5127697.05
+Trade day 1004 Not enough fund to buy. Do Nothing.The Current Balance is 21562229.55. The Current Fund is 5127697.05
+Trade day 1005 Not enough fund to buy. Do Nothing.The Current Balance is 21583948.55. The Current Fund is 5127697.05
+Trade day 1006 Not enough fund to buy. Do Nothing.The Current Balance is 21436905.05. The Current Fund is 5127697.05
+Trade day 1007 Not enough fund to buy. Do Nothing.The Current Balance is 21251706.55. The Current Fund is 5127697.05
+Trade day 1008 Keep.The Current Balance is 21435437.55. The Current Fund is 5127697.05
+Trade day 1009 Not enough fund to buy. Do Nothing.The Current Balance is 21282817.55. The Current Fund is 5127697.05
+Trade day 1010 Keep.The Current Balance is 21462733.05. The Current Fund is 5127697.05
+Trade day 1011 Not enough fund to buy. Do Nothing.The Current Balance is 21586590.05. The Current Fund is 5127697.05
+Trade day 1012 Not enough fund to buy. Do Nothing.The Current Balance is 21504997.05. The Current Fund is 5127697.05
+Trade day 1013 Not enough fund to buy. Do Nothing.The Current Balance is 21526129.05. The Current Fund is 5127697.05
+Trade day 1014 Not enough fund to buy. Do Nothing.The Current Balance is 21497659.55. The Current Fund is 5127697.05
+Trade day 1015 Not enough fund to buy. Do Nothing.The Current Balance is 21407261.55. The Current Fund is 5127697.05
+Trade day 1016 Not enough fund to buy. Do Nothing.The Current Balance is 21310700.05. The Current Fund is 5127697.05
+Trade day 1017 Not enough fund to buy. Do Nothing.The Current Balance is 21000470.55. The Current Fund is 5127697.05
+Trade day 1018 Not enough fund to buy. Do Nothing.The Current Balance is 20956739.05. The Current Fund is 5127697.05
+Trade day 1019 Not enough fund to buy. Do Nothing.The Current Balance is 21097912.55. The Current Fund is 5127697.05
+Trade day 1020 Not enough fund to buy. Do Nothing.The Current Balance is 21231455.05. The Current Fund is 5127697.05
+Trade day 1021 Not enough fund to buy. Do Nothing.The Current Balance is 20753050.05. The Current Fund is 5127697.05
+Trade day 1022 Not enough fund to buy. Do Nothing.The Current Balance is 20760094.05. The Current Fund is 5127697.05
+Trade day 1023 Keep.The Current Balance is 20345672.05. The Current Fund is 5127697.05

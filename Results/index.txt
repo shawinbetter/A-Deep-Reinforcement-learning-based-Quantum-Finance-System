@@ -1,0 +1,30 @@
+AUDUSD:
+The Total Profit is 849194.79 
+The Accumulative Return Rate is the last trade day is 8.49% 
+The Maximum Return Rate is  is 10.88% 
+The Minimum Return Rate is  is -4.14% 
+
+AIRBUS:
+The Total Profit is 8134663.17 
+The Accumulative Return Rate is the last trade day is 81.35% 
+The Maximum Return Rate is  is 88.12% 
+The Minimum Return Rate is  is -0.95% 
+
+GOOGLE:
+The Total Profit is 13940766.25 
+The Accumulative Return Rate is the last trade day is 139.41% 
+The Maximum Return Rate is  is 151.98% 
+The Minimum Return Rate is  is -0.10% 
+
+USD100M1:
+The Total Profit is 10345672.05 
+The Accumulative Return Rate is the last trade day is 103.46% 
+The Maximum Return Rate is  is 115.87% 
+The Minimum Return Rate is  is -1.61% 
+
+XAUUSD:
+The Total Profit is 3116457.21 
+The Accumulative Return Rate is the last trade day is 31.16% 
+The Maximum Return Rate is  is 37.28% 
+The Minimum Return Rate is  is -5.42% 
+

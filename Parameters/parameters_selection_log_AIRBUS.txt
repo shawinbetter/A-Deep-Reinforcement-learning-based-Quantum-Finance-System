@@ -1,0 +1,93 @@
+Best Combination of Parameters is(0.5, 64, 0.001)
+The avg profit of last 10 epochs is 601992.3405. 
+******************************************** 
+GAMMA = 0.10 BATCH_SIZE = 64.0 LR = 0.0100 
+The avg profit of last 10 epochs is 49339.5271. The avg loss of last 10 epochs is 155.4122 
+-----------------------------------
+GAMMA = 0.10 BATCH_SIZE = 64.0 LR = 0.0010 
+The avg profit of last 10 epochs is 267997.3251. The avg loss of last 10 epochs is 137.0176 
+-----------------------------------
+GAMMA = 0.10 BATCH_SIZE = 64.0 LR = 0.0001 
+The avg profit of last 10 epochs is -2839255.6098. The avg loss of last 10 epochs is 814.2038 
+-----------------------------------
+GAMMA = 0.10 BATCH_SIZE = 128.0 LR = 0.0100 
+The avg profit of last 10 epochs is -2261580.6128. The avg loss of last 10 epochs is 452.4460 
+-----------------------------------
+GAMMA = 0.10 BATCH_SIZE = 128.0 LR = 0.0010 
+The avg profit of last 10 epochs is -760118.1408. The avg loss of last 10 epochs is 156.5288 
+-----------------------------------
+GAMMA = 0.10 BATCH_SIZE = 128.0 LR = 0.0001 
+The avg profit of last 10 epochs is -1099187.7985. The avg loss of last 10 epochs is 922.0729 
+-----------------------------------
+GAMMA = 0.30 BATCH_SIZE = 64.0 LR = 0.0100 
+The avg profit of last 10 epochs is -108678.8302. The avg loss of last 10 epochs is 154.5922 
+-----------------------------------
+GAMMA = 0.30 BATCH_SIZE = 64.0 LR = 0.0010 
+The avg profit of last 10 epochs is 32106.5519. The avg loss of last 10 epochs is 134.5552 
+-----------------------------------
+GAMMA = 0.30 BATCH_SIZE = 64.0 LR = 0.0001 
+The avg profit of last 10 epochs is -498492.8210. The avg loss of last 10 epochs is 198.5941 
+-----------------------------------
+GAMMA = 0.30 BATCH_SIZE = 128.0 LR = 0.0100 
+The avg profit of last 10 epochs is -108747.3827. The avg loss of last 10 epochs is 180.8503 
+-----------------------------------
+GAMMA = 0.30 BATCH_SIZE = 128.0 LR = 0.0010 
+The avg profit of last 10 epochs is -341874.6939. The avg loss of last 10 epochs is 136.8104 
+-----------------------------------
+GAMMA = 0.30 BATCH_SIZE = 128.0 LR = 0.0001 
+The avg profit of last 10 epochs is -2022974.6912. The avg loss of last 10 epochs is 1044.1997 
+-----------------------------------
+GAMMA = 0.50 BATCH_SIZE = 64.0 LR = 0.0100 
+The avg profit of last 10 epochs is -330482.4622. The avg loss of last 10 epochs is 145.3604 
+-----------------------------------
+GAMMA = 0.50 BATCH_SIZE = 64.0 LR = 0.0010 
+The avg profit of last 10 epochs is 601992.3405. The avg loss of last 10 epochs is 141.0643 
+-----------------------------------
+GAMMA = 0.50 BATCH_SIZE = 64.0 LR = 0.0001 
+The avg profit of last 10 epochs is -84636.2668. The avg loss of last 10 epochs is 213.8018 
+-----------------------------------
+GAMMA = 0.50 BATCH_SIZE = 128.0 LR = 0.0100 
+The avg profit of last 10 epochs is -2566085.2558. The avg loss of last 10 epochs is 543.6488 
+-----------------------------------
+GAMMA = 0.50 BATCH_SIZE = 128.0 LR = 0.0010 
+The avg profit of last 10 epochs is -3011456.9582. The avg loss of last 10 epochs is 914.6208 
+-----------------------------------
+GAMMA = 0.50 BATCH_SIZE = 128.0 LR = 0.0001 
+The avg profit of last 10 epochs is -238056.4577. The avg loss of last 10 epochs is 139.6920 
+-----------------------------------
+GAMMA = 0.70 BATCH_SIZE = 64.0 LR = 0.0100 
+The avg profit of last 10 epochs is -884746.9706. The avg loss of last 10 epochs is 160.0466 
+-----------------------------------
+GAMMA = 0.70 BATCH_SIZE = 64.0 LR = 0.0010 
+The avg profit of last 10 epochs is -726232.2580. The avg loss of last 10 epochs is 340.5187 
+-----------------------------------
+GAMMA = 0.70 BATCH_SIZE = 64.0 LR = 0.0001 
+The avg profit of last 10 epochs is -451064.7598. The avg loss of last 10 epochs is 698.1104 
+-----------------------------------
+GAMMA = 0.70 BATCH_SIZE = 128.0 LR = 0.0100 
+The avg profit of last 10 epochs is -273884.9816. The avg loss of last 10 epochs is 140.6148 
+-----------------------------------
+GAMMA = 0.70 BATCH_SIZE = 128.0 LR = 0.0010 
+The avg profit of last 10 epochs is -608971.7981. The avg loss of last 10 epochs is 179.0561 
+-----------------------------------
+GAMMA = 0.70 BATCH_SIZE = 128.0 LR = 0.0001 
+The avg profit of last 10 epochs is -72481.0913. The avg loss of last 10 epochs is 136.6474 
+-----------------------------------
+GAMMA = 0.90 BATCH_SIZE = 64.0 LR = 0.0100 
+The avg profit of last 10 epochs is -174775.3922. The avg loss of last 10 epochs is 143.3776 
+-----------------------------------
+GAMMA = 0.90 BATCH_SIZE = 64.0 LR = 0.0010 
+The avg profit of last 10 epochs is -27436.9580. The avg loss of last 10 epochs is 146.5192 
+-----------------------------------
+GAMMA = 0.90 BATCH_SIZE = 64.0 LR = 0.0001 
+The avg profit of last 10 epochs is -542986.2670. The avg loss of last 10 epochs is 169.2613 
+-----------------------------------
+GAMMA = 0.90 BATCH_SIZE = 128.0 LR = 0.0100 
+The avg profit of last 10 epochs is -476208.8276. The avg loss of last 10 epochs is 139.2537 
+-----------------------------------
+GAMMA = 0.90 BATCH_SIZE = 128.0 LR = 0.0010 
+The avg profit of last 10 epochs is -454396.2931. The avg loss of last 10 epochs is 853.8378 
+-----------------------------------
+GAMMA = 0.90 BATCH_SIZE = 128.0 LR = 0.0001 
+The avg profit of last 10 epochs is 78210.7038. The avg loss of last 10 epochs is 138.4232 
+-----------------------------------
